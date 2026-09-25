@@ -1,0 +1,6 @@
+# Raw runs are stored by run-id; only reviewed summaries are committed.
+run-*/
+*.out
+*.err
+*.log
+__pycache__/
