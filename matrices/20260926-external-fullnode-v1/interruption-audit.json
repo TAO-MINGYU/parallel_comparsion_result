@@ -1,0 +1,151 @@
+{
+  "time": 1790397796.8811002,
+  "moved": [
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noiseless_nodrop/system-18/noiseless_nodrop/constrained_resource/4426/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/pysr/noiseless_nodrop/system-18/noiseless_nodrop/constrained_resource/4426/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noiseless_nodrop/system-17/noiseless_nodrop/constrained_resource/4426/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/pysr/noiseless_nodrop/system-17/noiseless_nodrop/constrained_resource/4426/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/tf4sr/noiseless_nodrop/system-29/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/tf4sr/noiseless_nodrop/system-29/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/tf4sr/noiseless_nodrop/system-30/noiseless_nodrop/constrained_resource/16850/component-1",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/tf4sr/noiseless_nodrop/system-30/noiseless_nodrop/constrained_resource/16850/component-1",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/operon/noiseless_nodrop/system-25/noiseless_nodrop/capability_ceiling/15795/component-1",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/operon/noiseless_nodrop/system-25/noiseless_nodrop/capability_ceiling/15795/component-1",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-5/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-5/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-3/noiseless_nodrop/capability_ceiling/14423/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-3/noiseless_nodrop/capability_ceiling/14423/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/16850/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/16850/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/16850/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/16850/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_2/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_2/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_14/clean/constrained_resource/860",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_14/clean/constrained_resource/860",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_13/output_noise_10/capability_ceiling/29910",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_13/output_noise_10/capability_ceiling/29910",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_10/output_noise_01/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_10/output_noise_01/capability_ceiling/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_1/clean/capability_ceiling/29910",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_1/clean/capability_ceiling/29910",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_0/clean/capability_ceiling/14423",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_0/clean/capability_ceiling/14423",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_12/output_noise_01/capability_ceiling/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_12/output_noise_01/capability_ceiling/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_11/output_noise_01/capability_ceiling/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_11/output_noise_01/capability_ceiling/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_13/output_noise_01/capability_ceiling/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/tf4sr/legacy-classic-korns_13/output_noise_01/capability_ceiling/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_4/output_noise_10/capability_ceiling/4426",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_4/output_noise_10/capability_ceiling/4426",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_6/output_noise_10/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_6/output_noise_10/capability_ceiling/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_5/output_noise_10/capability_ceiling/29910",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_5/output_noise_10/capability_ceiling/29910",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_10/output_noise_01/capability_ceiling/29910",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_10/output_noise_01/capability_ceiling/29910",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_1/output_noise_05/capability_ceiling/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_1/output_noise_05/capability_ceiling/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_0/output_noise_05/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_0/output_noise_05/capability_ceiling/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_10/clean/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_10/clean/capability_ceiling/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_1/clean/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_1/clean/capability_ceiling/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_0/clean/capability_ceiling/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_0/clean/capability_ceiling/16850",
+      "completed_result_preserved": false
+    }
+  ],
+  "preserved_result_files": 6534
+}

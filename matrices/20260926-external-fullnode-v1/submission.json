@@ -1,0 +1,44 @@
+{
+  "time": 1790397796.903208,
+  "jobs": [
+    {
+      "node": "node1",
+      "job_id": "34096",
+      "logical_cpus": 512,
+      "workers": 512
+    },
+    {
+      "node": "node2",
+      "job_id": "34097",
+      "logical_cpus": 512,
+      "workers": 512
+    }
+  ],
+  "summary_job_id": "34098",
+  "scheduler_commit": "01d74a8196ed09592a0e90abbb9642e9c3ff1d99",
+  "superseded_arrays": [
+    "33940",
+    "33941",
+    "33942",
+    "33943",
+    "33944",
+    "33946",
+    "33947",
+    "33948",
+    "33949",
+    "33950",
+    "33987",
+    "33988"
+  ],
+  "superseded_summary_job": "33994",
+  "config": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1/config.json",
+  "result_directories": [
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+  ],
+  "preserved_result_files": 6534,
+  "archived_interrupted_locations": 29,
+  "formal_claim": false,
+  "resource_epoch": "full-node-smt-v1",
+  "unit_tests_passed": 21
+}
