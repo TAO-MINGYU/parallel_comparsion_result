@@ -1,0 +1,18 @@
+{
+  "failure_status": "timeout",
+  "features": 3,
+  "hostname": "node2",
+  "import_stderr": "Command '['/home/taomingyu/taomingyu_5/conda_envs/env_1_pysr/bin/python', '-c', 'import pysr as m; print(getattr(m, \"__version__\", \"available\"))']' timed out after 90 seconds",
+  "imported_package": "pysr",
+  "method_id": "pysr",
+  "noise_variant": "clean",
+  "phase": "baseline_adapter_pilot",
+  "python_executable": "/home/taomingyu/taomingyu_5/conda_envs/env_1_pysr/bin/python",
+  "rows": 800,
+  "runtime_seconds": 90.70460794819519,
+  "seed": 23654,
+  "slurm_job_id": "33817",
+  "slurm_nodelist": "node2",
+  "status": "import_timeout",
+  "task_id": "legacy-classic-nguyen_1"
+}

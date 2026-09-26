@@ -4,3 +4,4 @@ run-*/
 *.err
 *.log
 __pycache__/
+runs/

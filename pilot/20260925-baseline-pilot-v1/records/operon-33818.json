@@ -1,0 +1,20 @@
+{
+  "failure_status": "success",
+  "features": 3,
+  "hostname": "node2",
+  "import_returncode": 0,
+  "import_stderr": "",
+  "import_stdout": "available",
+  "imported_package": "pyoperon",
+  "method_id": "operon",
+  "noise_variant": "clean",
+  "phase": "baseline_adapter_pilot",
+  "python_executable": "/home/taomingyu/taomingyu_5/conda_envs/parallel_operon/bin/python",
+  "rows": 800,
+  "runtime_seconds": 8.57040533889085,
+  "seed": 23654,
+  "slurm_job_id": "33818",
+  "slurm_nodelist": "node2",
+  "status": "environment_and_data_smoke_passed",
+  "task_id": "legacy-classic-nguyen_1"
+}

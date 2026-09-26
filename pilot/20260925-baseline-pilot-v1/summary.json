@@ -1,0 +1,83 @@
+{
+  "formal_claim": false,
+  "generated_utc": "2026-09-26T00:34:03.597689+00:00",
+  "jobs": [
+    33811,
+    33812,
+    33813,
+    33814,
+    33815,
+    33816,
+    33817,
+    33818,
+    33819,
+    33820,
+    33821,
+    33822
+  ],
+  "method_status": {
+    "ai_feynman_2": {
+      "node1": "import_timeout",
+      "node2": "import_timeout"
+    },
+    "dsr": {
+      "node1": "import_timeout",
+      "node2": "import_timeout"
+    },
+    "gplearn": {
+      "node1": "environment_and_data_smoke_passed",
+      "node2": "environment_and_data_smoke_passed"
+    },
+    "operon": {
+      "node1": "environment_and_data_smoke_passed",
+      "node2": "environment_and_data_smoke_passed"
+    },
+    "pysr": {
+      "node1": "import_timeout",
+      "node2": "import_timeout"
+    },
+    "tf4sr": {
+      "node1": "import_timeout",
+      "node2": "import_timeout"
+    }
+  },
+  "methods": [
+    "pysr",
+    "operon",
+    "dsr",
+    "ai_feynman_2",
+    "gplearn",
+    "tf4sr"
+  ],
+  "nodes": [
+    "node1",
+    "node2"
+  ],
+  "notes": [
+    "gplearn and PyOperon completed import/data smoke on both nodes.",
+    "PySR, DSR, AI-Feynman, and TF4SR exceeded the 90-second child-import timeout on both nodes; these are startup/precompile observations, not algorithm failures.",
+    "Slurm declares RealMemory=1 MiB per node, so this pilot used --mem=0. This is not the formal memory budget."
+  ],
+  "phase": "baseline_adapter_pilot",
+  "purpose": "node1/node2 environment and data-interface preflight before adapter and protocol freeze",
+  "record_sha256": {
+    "ai_feynman_2-33814.json": "336ead8265c799795bac9159af35ad0afe02e94de22c10c8d76ddfe8d9888bee",
+    "ai_feynman_2-33820.json": "af290281ca9e3bbfc5962860a72d22bba7a6d001655170d1940fa134e120154f",
+    "dsr-33813.json": "094c62efba3d91f43f7e168a55c78bce80801e0f87a4550016b58950cf98cc0a",
+    "dsr-33819.json": "08e883b222d888236c0fbafae8b8e7b893eabec9aa627c39c01d1a51b446115e",
+    "gplearn-33815.json": "a11211ef09c1800265ede7f3e07d6b5539e04b99bfc9eb12a7291708ffcebc55",
+    "gplearn-33821.json": "eace69befc5ffa7a28e5ebb04809c2f611c0c8885ce05c729487cffeb7677f2b",
+    "operon-33812.json": "32f9f6e554ffc56381b851e94719a8dc6e2f83a75dc2ac3247a252b9db15382a",
+    "operon-33818.json": "d6d9bf6de338b8d0f78f1c978c6cb4e5d6ceb096adf5c0396462e6dfcdc8af04",
+    "pysr-33811.json": "51f559f9a965cf9cb89902ce1a2154ce4ef1e84de25cec984ae1453ea2c42b9c",
+    "pysr-33817.json": "e1b92e751cf286963ddedefbba73a222a259408670a6d3037e0b86226d1cb969",
+    "tf4sr-33816.json": "551e8f84e8adf779b91f7612904f0bf2e5f3d646465c169763c2fb4e13371887",
+    "tf4sr-33822.json": "c8d04e4a657f8b7c39fa6eccbe5db2f7a75b935d035a24c2f110978331a317ff"
+  },
+  "records": 12,
+  "run_id": "20260925-baseline-pilot-v1",
+  "status_counts": {
+    "environment_and_data_smoke_passed": 4,
+    "import_timeout": 8
+  }
+}

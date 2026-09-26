@@ -1,0 +1,18 @@
+{
+  "failure_status": "timeout",
+  "features": 3,
+  "hostname": "node1",
+  "import_stderr": "Command '['/home/taomingyu/taomingyu_5/conda_envs/parallel_dsr/bin/python', '-c', 'import dso as m; print(getattr(m, \"__version__\", \"available\"))']' timed out after 90 seconds",
+  "imported_package": "dso",
+  "method_id": "dsr",
+  "noise_variant": "clean",
+  "phase": "baseline_adapter_pilot",
+  "python_executable": "/home/taomingyu/taomingyu_5/conda_envs/parallel_dsr/bin/python",
+  "rows": 800,
+  "runtime_seconds": 90.41403037495911,
+  "seed": 23654,
+  "slurm_job_id": "33813",
+  "slurm_nodelist": "node1",
+  "status": "import_timeout",
+  "task_id": "legacy-classic-nguyen_1"
+}

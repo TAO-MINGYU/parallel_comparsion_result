@@ -1,0 +1,18 @@
+{
+  "failure_status": "timeout",
+  "features": 3,
+  "hostname": "node1",
+  "import_stderr": "Command '['/home/taomingyu/taomingyu_5/conda_envs/parallel_ai_feynman/bin/python', '-c', 'import aifeynman as m; print(getattr(m, \"__version__\", \"available\"))']' timed out after 90 seconds",
+  "imported_package": "aifeynman",
+  "method_id": "ai_feynman_2",
+  "noise_variant": "clean",
+  "phase": "baseline_adapter_pilot",
+  "python_executable": "/home/taomingyu/taomingyu_5/conda_envs/parallel_ai_feynman/bin/python",
+  "rows": 800,
+  "runtime_seconds": 90.4265842307359,
+  "seed": 23654,
+  "slurm_job_id": "33814",
+  "slurm_nodelist": "node1",
+  "status": "import_timeout",
+  "task_id": "legacy-classic-nguyen_1"
+}
