@@ -1,7 +1,7 @@
 # Executable external comparison v2
 
 **Scheduling amendment:** the arrays below were superseded by
-[full-node pools](../20260926-external-fullnode-v1/README.md), jobs 34096/34097.
+[full-node pools](../20260926-external-fullnode-v3/README.md), jobs 34104/34105.
 The original solver protocol and matrix remain unchanged.
 
 Six real solvers replace the earlier held placeholder arrays: PySR, Operon,

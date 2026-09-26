@@ -1,0 +1,42 @@
+{
+  "time": 1790398275.3843293,
+  "jobs": [
+    {
+      "node": "node1",
+      "job_id": "34101",
+      "logical_cpus": 512,
+      "workers": 512
+    },
+    {
+      "node": "node2",
+      "job_id": "34102",
+      "logical_cpus": 512,
+      "workers": 512
+    }
+  ],
+  "summary_job_id": "34103",
+  "scheduler_commit": "bb1b37fc9368cbdeb0a888643f4fd835d194f36a",
+  "superseded_pools": [
+    34096,
+    34097
+  ],
+  "superseded_summary_job": 34098,
+  "prior_array_amendment": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v1",
+  "config": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/config.json",
+  "result_directories": [
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+  ],
+  "preserved_result_files": 6644,
+  "archived_interrupted_locations": 96,
+  "original_6534_result_hashes_unchanged": true,
+  "formal_claim": false,
+  "resource_epoch": "full-node-smt-v1",
+  "unit_tests_passed": 21,
+  "supervisor_node_probe": {
+    "node1_import_seconds": 0.1047,
+    "node2_import_seconds": 0.11,
+    "numpy": "2.4.6",
+    "psutil": "7.2.2"
+  }
+}

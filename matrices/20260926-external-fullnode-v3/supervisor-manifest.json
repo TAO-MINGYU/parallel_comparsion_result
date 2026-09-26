@@ -1,0 +1,19 @@
+{
+  "env_1_mysr": {
+    "sha256": "1985ae2ef9d52a03364b8f24959a006a9206d2651bf9b00109b784b5f03b11e2",
+    "bytes": 343705600,
+    "source": "/data5/taomingyu_5/conda_envs/env_1_mysr",
+    "role": "unmodified installed Python, NumPy, psutil and dependency closure",
+    "package_count": 36
+  },
+  "adapter_a43fe88": {
+    "sha256": "670883e278f886f32fceae43e90bd98763725a866ed3b040dc54b4265609c98c",
+    "bytes": 194560,
+    "source_commit": "a43fe88"
+  },
+  "adapter_8f3d8ce": {
+    "sha256": "d501d3fd6493652361bdaffc1aacdc2ec65c4d2ea3eaf981408b197f8c912b48",
+    "bytes": 194560,
+    "source_commit": "8f3d8ce"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "time": 1790398615.0239856,
+  "jobs": [
+    {
+      "node": "node1",
+      "job_id": "34104",
+      "logical_cpus": 512,
+      "workers": 512
+    },
+    {
+      "node": "node2",
+      "job_id": "34105",
+      "logical_cpus": 512,
+      "workers": 512
+    }
+  ],
+  "summary_job_id": "34106",
+  "scheduler_commit": "c83114f07b99a68461bed59120c76faadd019a2c",
+  "superseded_pools": [
+    34101,
+    34102
+  ],
+  "superseded_summary_job": 34103,
+  "prior_amendment": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2",
+  "config": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v3/config.json",
+  "result_directories": [
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+    "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+  ],
+  "preserved_result_files": 6687,
+  "archived_interrupted_locations": 63,
+  "original_6534_result_hashes_unchanged": true,
+  "formal_claim": false,
+  "resource_epoch": "full-node-smt-v1",
+  "unit_tests_passed": 21,
+  "supervisor_node_probe": {
+    "node1_import_seconds": 0.1047,
+    "node2_import_seconds": 0.11,
+    "numpy": "2.4.6",
+    "psutil": "7.2.2"
+  },
+  "io_probe_four_files_seconds": 10.8565,
+  "scheduler_metadata": "node-local files with asynchronous durable mirrors"
+}

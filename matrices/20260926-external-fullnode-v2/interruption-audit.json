@@ -1,0 +1,487 @@
+{
+  "time": 1790398275.3601384,
+  "moved": [
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-4/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-4/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-1/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-5/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-5/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-2/noiseless_nodrop/capability_ceiling/29910/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-10/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-10/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-3/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-3/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/dsr/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/15795/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/dsr/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/15795/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-5/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-5/noiseless_nodrop/capability_ceiling/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/860/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/860/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/5390/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/5390/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/860/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/gplearn/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/860/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-4/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-4/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-14/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-6/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-8/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-5/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-5/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-13/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-10/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-10/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-15/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-17/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-17/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-12/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-7/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-3/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-3/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-16/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-16/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-9/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/23654/component-0",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-ode-v2/ai_feynman_2/noiseless_nodrop/system-11/noiseless_nodrop/constrained_resource/23654/component-0",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_4/clean/constrained_resource/860",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_4/clean/constrained_resource/860",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_3/clean/constrained_resource/860",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_3/clean/constrained_resource/860",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_2/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_2/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_14/clean/constrained_resource/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_14/clean/constrained_resource/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_6/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_6/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_5/clean/constrained_resource/860",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/pysr/legacy-classic-keijzer_5/clean/constrained_resource/860",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_4/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_4/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_3/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_3/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_12/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_12/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_1/clean/capability_ceiling/29910",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_1/clean/capability_ceiling/29910",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_0/clean/capability_ceiling/14423",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_0/clean/capability_ceiling/14423",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_2/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_2/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_14/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_14/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_13/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_13/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_6/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_6/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_5/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/dsr/legacy-classic-keijzer_5/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-korns_1/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-korns_1/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/operon/legacy-classic-korns_10/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/operon/legacy-classic-korns_10/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_4/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_4/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_3/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_3/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_7/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_7/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_11/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_11/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_12/clean/constrained_resource/16850",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_12/clean/constrained_resource/16850",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_8/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_8/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_9/clean/constrained_resource/15795",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_9/clean/constrained_resource/15795",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_2/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_2/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_14/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_14/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_13/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_13/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_6/clean/constrained_resource/860",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_6/clean/constrained_resource/860",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_5/clean/constrained_resource/5390",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/gplearn/legacy-classic-keijzer_5/clean/constrained_resource/5390",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_4/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_4/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_3/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_3/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_7/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_11/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_11/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_12/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_12/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_8/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_1/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_1/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_9/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_0/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_10/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-korns_10/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_2/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_2/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_14/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_14/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_13/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_13/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_6/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_6/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    },
+    {
+      "source": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_5/clean/constrained_resource/23654",
+      "archive": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v2/interrupted/20260926-external-tabular-v2/ai_feynman_2/legacy-classic-keijzer_5/clean/constrained_resource/23654",
+      "completed_result_preserved": false
+    }
+  ],
+  "preserved_result_files": 6644,
+  "original_6534_result_hashes_unchanged": true
+}
