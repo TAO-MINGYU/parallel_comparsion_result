@@ -1,0 +1,7 @@
+pysr	e5b5454a4f31f6902af52dff7a4c23c961d6dbf2	https://github.com/MilesCranmer/PySR
+operon	9cb691aa39cc277d5d5fc923961fc59b44df1acb	https://github.com/heal-research/operon
+dsr-pytorch	85f88faf3ff95636f0011764b30e13f7bb82b54c	https://github.com/dso-org/deep-symbolic-optimization-pytorch
+dsr-original	8348d5b08d1eef6170fdbfd222a492ded990ea12	https://github.com/dso-org/deep-symbolic-optimization
+ai-feynman	a05bc4a5be23d6eb3e1d0b2f7eb1ab5b78a920ad	https://github.com/SJ001/AI-Feynman
+gplearn	0390aea8639ce5f6c0b388400e07b58c05acad6a	https://github.com/trevorstephens/gplearn
+tf4sr	2cd6748ba3a848b09ac2d06a78045dac32e7b083	https://github.com/omron-sinicx/transformer4sr

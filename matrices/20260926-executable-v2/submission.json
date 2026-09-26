@@ -1,0 +1,637 @@
+{
+  "schema_version": "external-deployment-v2",
+  "benchmark_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+  "my_sr_included": false,
+  "raw_records_expected": 189000,
+  "jobs": [
+    {
+      "kind": "tabular",
+      "method": "pysr",
+      "node": "node1",
+      "job_id": "33987",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "8f3d8ceaf75ae2e9df8d207a336dd25036880ff6"
+    },
+    {
+      "kind": "tabular",
+      "method": "operon",
+      "node": "node2",
+      "job_id": "33940",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "tabular",
+      "method": "dsr",
+      "node": "node1",
+      "job_id": "33941",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "tabular",
+      "method": "ai_feynman_2",
+      "node": "node2",
+      "job_id": "33942",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "tabular",
+      "method": "gplearn",
+      "node": "node1",
+      "job_id": "33943",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "tabular",
+      "method": "tf4sr",
+      "node": "node2",
+      "job_id": "33944",
+      "array_elements": 315,
+      "records": 25200,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "ode",
+      "method": "pysr",
+      "node": "node1",
+      "job_id": "33988",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "8f3d8ceaf75ae2e9df8d207a336dd25036880ff6"
+    },
+    {
+      "kind": "ode",
+      "method": "operon",
+      "node": "node2",
+      "job_id": "33946",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "ode",
+      "method": "dsr",
+      "node": "node1",
+      "job_id": "33947",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "ode",
+      "method": "ai_feynman_2",
+      "node": "node2",
+      "job_id": "33948",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "ode",
+      "method": "gplearn",
+      "node": "node1",
+      "job_id": "33949",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    },
+    {
+      "kind": "ode",
+      "method": "tf4sr",
+      "node": "node2",
+      "job_id": "33950",
+      "array_elements": 315,
+      "records": 6300,
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55"
+    }
+  ],
+  "validation": [
+    {
+      "node": "node1",
+      "method": "pysr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node1/pysr/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "pysr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node1/pysr/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "pysr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node1/pysr/noisy/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "pysr",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node1/pysr/ode/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "operon",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/operon/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "operon",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/operon/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "operon",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/operon/noisy/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "operon",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/operon/ode/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "dsr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/dsr/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "dsr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/dsr/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "dsr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/dsr/noisy/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "dsr",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/dsr/ode/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "ai_feynman_2",
+      "case": "clean",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node1/ai_feynman_2/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "ai_feynman_2",
+      "case": "repeat",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node1/ai_feynman_2/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "ai_feynman_2",
+      "case": "noisy",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node1/ai_feynman_2/noisy/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "ai_feynman_2",
+      "case": "ode",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node1/ai_feynman_2/ode/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "gplearn",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/gplearn/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "gplearn",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/gplearn/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "gplearn",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/gplearn/noisy/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "gplearn",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/gplearn/ode/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "tf4sr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/tf4sr/clean/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "tf4sr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/tf4sr/repeat/result.json"
+    },
+    {
+      "node": "node1",
+      "method": "tf4sr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node1/tf4sr/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "pysr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node2/pysr/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "pysr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node2/pysr/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "pysr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node2/pysr/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "pysr",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v5/node2/pysr/ode/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "operon",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/operon/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "operon",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/operon/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "operon",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/operon/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "operon",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/operon/ode/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "dsr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/dsr/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "dsr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/dsr/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "dsr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/dsr/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "dsr",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/dsr/ode/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "ai_feynman_2",
+      "case": "clean",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node2/ai_feynman_2/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "ai_feynman_2",
+      "case": "repeat",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node2/ai_feynman_2/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "ai_feynman_2",
+      "case": "noisy",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node2/ai_feynman_2/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "ai_feynman_2",
+      "case": "ode",
+      "status": "search_timeout",
+      "partial_result_status": "success",
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v4/node2/ai_feynman_2/ode/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "gplearn",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/gplearn/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "gplearn",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/gplearn/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "gplearn",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/gplearn/noisy/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "gplearn",
+      "case": "ode",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/gplearn/ode/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "tf4sr",
+      "case": "clean",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/tf4sr/clean/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "tf4sr",
+      "case": "repeat",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/tf4sr/repeat/result.json"
+    },
+    {
+      "node": "node2",
+      "method": "tf4sr",
+      "case": "noisy",
+      "status": "success",
+      "partial_result_status": null,
+      "result": "/data5/taomingyu_5/MySR_Benchmark/20260926-adapter-node-validation-v3/node2/tf4sr/noisy/result.json"
+    }
+  ],
+  "superseded_cancelled_jobs": [
+    33895,
+    33896,
+    33897,
+    33898,
+    33899,
+    33900,
+    33901,
+    33902,
+    33903,
+    33904,
+    33905,
+    33906
+  ],
+  "pysr_warmup_amendment": {
+    "code_commit": "8f3d8ceaf75ae2e9df8d207a336dd25036880ff6",
+    "superseded_jobs": [
+      {
+        "kind": "tabular",
+        "method": "pysr",
+        "node": "node1",
+        "job_id": "33939",
+        "array_elements": 315,
+        "records": 25200,
+        "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+        "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+      },
+      {
+        "kind": "ode",
+        "method": "pysr",
+        "node": "node1",
+        "job_id": "33945",
+        "array_elements": 315,
+        "records": 6300,
+        "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+        "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+      }
+    ],
+    "preserved_records": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/superseded-pysr-before-warmup",
+    "reason": "Exclude first-fit JIT from actual search budget; no task or seed selection."
+  },
+  "summary_job_id": "33994",
+  "summary_outputs": [
+    "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-completion-summary.json",
+    "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-completion-summary.json"
+  ],
+  "validation_summary": {
+    "unit_tests_passed": 18,
+    "node_cases": 46,
+    "success": 38,
+    "search_timeout_with_scored_checkpoint": 8,
+    "formal_claim": false,
+    "repeats": [
+      {
+        "node": "node1",
+        "method": "pysr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node1",
+        "method": "operon",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node1",
+        "method": "dsr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node1",
+        "method": "ai_feynman_2",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": true
+      },
+      {
+        "node": "node1",
+        "method": "gplearn",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node1",
+        "method": "tf4sr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node2",
+        "method": "pysr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node2",
+        "method": "operon",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node2",
+        "method": "dsr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node2",
+        "method": "ai_feynman_2",
+        "same_seed_frontier_equal": false,
+        "wall_timeout_limited": true
+      },
+      {
+        "node": "node2",
+        "method": "gplearn",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      },
+      {
+        "node": "node2",
+        "method": "tf4sr",
+        "same_seed_frontier_equal": true,
+        "wall_timeout_limited": false
+      }
+    ]
+  }
+}

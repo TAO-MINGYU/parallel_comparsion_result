@@ -1,0 +1,81 @@
+{
+  "unit_tests_passed": 18,
+  "node_cases": 46,
+  "success": 38,
+  "search_timeout_with_scored_checkpoint": 8,
+  "formal_claim": false,
+  "repeats": [
+    {
+      "node": "node1",
+      "method": "pysr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node1",
+      "method": "operon",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node1",
+      "method": "dsr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node1",
+      "method": "ai_feynman_2",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": true
+    },
+    {
+      "node": "node1",
+      "method": "gplearn",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node1",
+      "method": "tf4sr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node2",
+      "method": "pysr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node2",
+      "method": "operon",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node2",
+      "method": "dsr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node2",
+      "method": "ai_feynman_2",
+      "same_seed_frontier_equal": false,
+      "wall_timeout_limited": true
+    },
+    {
+      "node": "node2",
+      "method": "gplearn",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    },
+    {
+      "node": "node2",
+      "method": "tf4sr",
+      "same_seed_frontier_equal": true,
+      "wall_timeout_limited": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "env_1_pysr": {
+    "sha256": "907b3903a631f080d52c39279d29f5a1528af5b989c2df8a685126b713e9da5e",
+    "bytes": 2572216320
+  },
+  "parallel_operon": {
+    "sha256": "8563de6363ef7acfc20ee1d53fd62bdb7c5a9e39d2acdab886172d69c44193d5",
+    "bytes": 593080320
+  },
+  "parallel_dsr": {
+    "sha256": "c664b064a2d0b7fcf78a43de74bfca12a5427f2691b11eadea2e3db73eecd84f",
+    "bytes": 5937203200
+  },
+  "parallel_ai_feynman": {
+    "sha256": "756416712a617e9656b9806ddec1ef4ed4c8b1939cd915dc1ab7e69dfabbef85",
+    "bytes": 1397207040
+  },
+  "parallel_gplearn": {
+    "sha256": "e6950f261c03a444bc0644d924cd634064675ab71593998d5c6d7229abb393bd",
+    "bytes": 555776000
+  },
+  "parallel_tf4sr": {
+    "sha256": "306f8c125de26c832a21c046ab16490032091dd6fee90c98f1f18f8ee73c1992",
+    "bytes": 5669662720
+  },
+  "sources": {
+    "sha256": "48729ff505fdf2f6654ca6be929829ba2f3d4d6241b3b9a0808b18747be61bfb",
+    "bytes": 218828800
+  }
+}
