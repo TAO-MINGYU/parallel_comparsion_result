@@ -1,0 +1,411 @@
+{
+  "run_id": "20260926-baseline-calibration-v1",
+  "phase": "baseline_calibration",
+  "formal_claim": false,
+  "task_ids": [
+    "legacy-classic-nguyen_1",
+    "srsd-feynman-easy-feynman-i.12.1"
+  ],
+  "method_ids": [
+    "pysr",
+    "operon",
+    "dsr",
+    "ai_feynman_2",
+    "gplearn",
+    "tf4sr"
+  ],
+  "noise_variants": [
+    "clean",
+    "output_noise_05"
+  ],
+  "resource_tracks": [
+    "constrained_resource",
+    "capability_ceiling"
+  ],
+  "runs": [
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "legacy-classic-nguyen_1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "clean",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "constrained_resource",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "pysr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "operon",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "dsr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "ai_feynman_2",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "gplearn",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    },
+    {
+      "run_id": "20260926-baseline-calibration-v1",
+      "method_id": "tf4sr",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1",
+      "noise_variant": "output_noise_05",
+      "resource_track": "capability_ceiling",
+      "seed": 23654
+    }
+  ]
+}
