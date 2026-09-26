@@ -1,0 +1,32 @@
+{
+  "verification": "read node-local pool status and os.sched_getaffinity for every active campaign process using a Slurm overlapping diagnostic step",
+  "interpretation": "1024 live single-logical-CPU campaign processes, not a claim of continuous 100 percent CPU busy time",
+  "nodes": [
+    {
+      "node": "node1",
+      "job_id": "34104",
+      "time": 1790398742.4342656,
+      "active_slots": 512,
+      "live_campaign_processes": 512,
+      "distinct_assigned_cpus": 512,
+      "affinity_mismatches": [],
+      "queued_workunits": 1378,
+      "completed_workunits": 0,
+      "failed_workunits": 0,
+      "available_memory_gib": 1086.6716842651367
+    },
+    {
+      "node": "node2",
+      "job_id": "34105",
+      "time": 1790398752.5113058,
+      "active_slots": 512,
+      "live_campaign_processes": 512,
+      "distinct_assigned_cpus": 512,
+      "affinity_mismatches": [],
+      "queued_workunits": 1378,
+      "completed_workunits": 0,
+      "failed_workunits": 0,
+      "available_memory_gib": 1092.650863647461
+    }
+  ]
+}
