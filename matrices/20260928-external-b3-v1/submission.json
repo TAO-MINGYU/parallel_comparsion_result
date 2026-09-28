@@ -1,0 +1,38 @@
+{
+  "plan": "b3",
+  "time": 1790600299.2928922,
+  "jobs": [
+    {
+      "node": "node1",
+      "job_id": "34189",
+      "cpus": 448,
+      "workers": 448,
+      "resource_reason": "node1 has unrelated 64-CPU allocation"
+    },
+    {
+      "node": "node2",
+      "job_id": "34190",
+      "cpus": 512,
+      "workers": 512,
+      "resource_reason": "full node"
+    }
+  ],
+  "summary_job_id": "34191",
+  "scheduler_commit": "3f335f2ecba8251abdd7bd06b4a181087f0e5650",
+  "b1_jobs": [
+    34104,
+    34105
+  ],
+  "withdrawn_b2_jobs": [
+    34118,
+    34119,
+    34120
+  ],
+  "retry_statuses": [
+    "startup_timeout",
+    "scoring_timeout"
+  ],
+  "no_batch_time_limit": true,
+  "no_batch_memory_limit": true,
+  "formal_claim": false
+}

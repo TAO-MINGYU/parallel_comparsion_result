@@ -1,0 +1,143 @@
+{
+  "schema_version": "external-b3-v1",
+  "scheduler_commit": "3f335f2ecba8251abdd7bd06b4a181087f0e5650",
+  "pool_output": "/data5/taomingyu_5/MySR_Benchmark/20260928-external-b3-v1/pools",
+  "bundles": "/data5/taomingyu_5/parallel_comparsion/runtime-bundles/20260926-v1",
+  "archive": "/data5/taomingyu_5/MySR_Benchmark/20260925-formal-corpus-v1",
+  "supervisor_python": "/data5/taomingyu_5/conda_envs/env_1_mysr/bin/python",
+  "minimum_available_memory_gib": 96,
+  "starts_per_second": 8,
+  "campaigns": [
+    {
+      "method": "pysr",
+      "kind": "tabular",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/8f3d8ce",
+      "adapter_commit": "8f3d8ceaf75ae2e9df8d207a336dd25036880ff6",
+      "environment": "env_1_pysr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "operon",
+      "kind": "tabular",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_operon",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "dsr",
+      "kind": "tabular",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_dsr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "ai_feynman_2",
+      "kind": "tabular",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_ai_feynman",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "gplearn",
+      "kind": "tabular",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_gplearn",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "tf4sr",
+      "kind": "tabular",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_tf4sr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/tabular-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2"
+    },
+    {
+      "method": "pysr",
+      "kind": "ode",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/8f3d8ce",
+      "adapter_commit": "8f3d8ceaf75ae2e9df8d207a336dd25036880ff6",
+      "environment": "env_1_pysr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    },
+    {
+      "method": "operon",
+      "kind": "ode",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_operon",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    },
+    {
+      "method": "dsr",
+      "kind": "ode",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_dsr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    },
+    {
+      "method": "ai_feynman_2",
+      "kind": "ode",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_ai_feynman",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    },
+    {
+      "method": "gplearn",
+      "kind": "ode",
+      "node": "node1",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_gplearn",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    },
+    {
+      "method": "tf4sr",
+      "kind": "ode",
+      "node": "node2",
+      "code": "/data5/taomingyu_5/parallel_comparsion/releases/a43fe88",
+      "adapter_commit": "a43fe8844ac58d8dcde001496faf1ac27a0afa55",
+      "environment": "parallel_tf4sr",
+      "manifest": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-deployment-v2/ode-manifest.json",
+      "output": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2"
+    }
+  ],
+  "workers_per_node": 512,
+  "formal_claim": false,
+  "resource_epoch": "full-node-smt-v1",
+  "supervisor_bundles": "/data5/taomingyu_5/parallel_comparsion/runtime-bundles/20260926-supervisor-minimal-v1",
+  "resume_stale_locks": true,
+  "retry_statuses": [
+    "startup_timeout",
+    "scoring_timeout"
+  ],
+  "continuation_of": "/data5/taomingyu_5/MySR_Benchmark/20260926-external-fullnode-v3",
+  "superseded_b2": "/data5/taomingyu_5/MySR_Benchmark/20260928-external-continuation-v1"
+}

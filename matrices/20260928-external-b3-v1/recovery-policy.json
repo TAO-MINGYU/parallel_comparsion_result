@@ -1,0 +1,10 @@
+{
+  "plan": "b3",
+  "reuses": ["success", "search_timeout", "memory_limit", "not_applicable", "solver_error", "incomplete_system", "invalid_output"],
+  "retries": ["missing_record", "startup_timeout", "scoring_timeout"],
+  "search_and_evaluation_budgets": "unchanged from formal manifest",
+  "scheduler_time_limit": "unlimited",
+  "scheduler_memory_limit": "unlimited",
+  "per_run_memory_budget": "retained only where explicit benchmark resource track defines it",
+  "b2": "withdrawn; no b2 job is a required input to b3"
+}

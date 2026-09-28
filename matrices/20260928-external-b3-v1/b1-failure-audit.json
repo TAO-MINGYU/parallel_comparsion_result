@@ -1,0 +1,237 @@
+{
+  "tabular": {
+    "b1_top_or_system_records": 114153,
+    "top_status": {
+      "success": 40423,
+      "startup_timeout": 43847,
+      "scoring_timeout": 1654,
+      "solver_error": 1342,
+      "search_timeout": 20399,
+      "not_applicable": 6488
+    },
+    "component_status": {},
+    "by_method": {
+      "pysr": {
+        "success": 14095,
+        "startup_timeout": 4142,
+        "scoring_timeout": 448,
+        "solver_error": 67
+      },
+      "dsr": {
+        "search_timeout": 11473,
+        "startup_timeout": 6521,
+        "success": 2071,
+        "scoring_timeout": 48,
+        "solver_error": 4
+      },
+      "tf4sr": {
+        "not_applicable": 5563,
+        "startup_timeout": 7533,
+        "success": 3865,
+        "scoring_timeout": 412,
+        "solver_error": 1144
+      },
+      "operon": {
+        "startup_timeout": 9267,
+        "success": 9254,
+        "scoring_timeout": 439,
+        "solver_error": 120
+      },
+      "gplearn": {
+        "success": 11138,
+        "startup_timeout": 6161,
+        "search_timeout": 2319,
+        "scoring_timeout": 307,
+        "solver_error": 7
+      },
+      "ai_feynman_2": {
+        "search_timeout": 6607,
+        "startup_timeout": 10223,
+        "not_applicable": 925
+      }
+    },
+    "examples": {
+      "success": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-nguyen_1/output_noise_01/capability_ceiling/23654/result.json",
+        "detail": null,
+        "reason": null,
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900
+        }
+      },
+      "startup_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-nguyen_1/output_noise_10/capability_ceiling/4426/result.json",
+        "detail": "startup_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900
+        }
+      },
+      "scoring_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-nguyen_1/output_noise_10/capability_ceiling/14423/result.json",
+        "detail": "scoring_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900
+        }
+      },
+      "solver_error": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/pysr/legacy-classic-korns_3/output_noise_01/constrained_resource/29910/result.json",
+        "detail": "ValueError",
+        "reason": null,
+        "budget": {
+          "evaluations": 20000,
+          "memory_gib": 8,
+          "search_seconds": 120
+        }
+      },
+      "search_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/dsr/legacy-classic-nguyen_1/output_noise_01/capability_ceiling/23654/result.json",
+        "detail": "search_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900
+        }
+      },
+      "not_applicable": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-tabular-v2/tf4sr/legacy-classic-nguyen_1/output_noise_01/capability_ceiling/23654/result.json",
+        "detail": "not_applicable",
+        "reason": "TF4SR is registered for compatible SRSD tabular tasks only.",
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900
+        }
+      }
+    }
+  },
+  "ode": {
+    "b1_top_or_system_records": 31924,
+    "top_status": {
+      "success": 8226,
+      "timeout": 18916,
+      "incomplete_system": 335,
+      "not_applicable": 4447
+    },
+    "component_status": {
+      "success": 19271,
+      "startup_timeout": 17397,
+      "scoring_timeout": 463,
+      "solver_error": 472,
+      "search_timeout": 11599,
+      "not_applicable": 8679
+    },
+    "by_method": {
+      "pysr": {
+        "success": 7155,
+        "startup_timeout": 1900,
+        "scoring_timeout": 177,
+        "solver_error": 317,
+        "search_timeout": 2
+      },
+      "dsr": {
+        "startup_timeout": 2533,
+        "search_timeout": 6931,
+        "success": 607,
+        "solver_error": 33,
+        "scoring_timeout": 7
+      },
+      "tf4sr": {
+        "not_applicable": 8679,
+        "startup_timeout": 652
+      },
+      "operon": {
+        "success": 4659,
+        "startup_timeout": 4481,
+        "solver_error": 122,
+        "scoring_timeout": 152
+      },
+      "gplearn": {
+        "success": 6850,
+        "startup_timeout": 2720,
+        "search_timeout": 291,
+        "scoring_timeout": 127
+      },
+      "ai_feynman_2": {
+        "startup_timeout": 5111,
+        "search_timeout": 4375
+      }
+    },
+    "examples": {
+      "success": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noise01_nodrop/system-38/noise01_nodrop/capability_ceiling/23654/result.json",
+        "component": null,
+        "detail": null,
+        "reason": null,
+        "budget": {
+          "evaluations": 250000,
+          "memory_gib": 32,
+          "search_seconds": 450.0
+        }
+      },
+      "startup_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noise01_nodrop/system-38/noise01_nodrop/capability_ceiling/4426/result.json",
+        "component": null,
+        "detail": "startup_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 250000,
+          "memory_gib": 32,
+          "search_seconds": 450.0
+        }
+      },
+      "scoring_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noise01_nodrop/system-60/noise01_nodrop/capability_ceiling/5390/result.json",
+        "component": null,
+        "detail": "scoring_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 166666,
+          "memory_gib": 32,
+          "search_seconds": 300.0
+        }
+      },
+      "solver_error": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noise01_nodrop/system-22/noise01_nodrop/capability_ceiling/5390/result.json",
+        "component": null,
+        "detail": "ValueError",
+        "reason": null,
+        "budget": {
+          "evaluations": 500000,
+          "memory_gib": 32,
+          "search_seconds": 900.0
+        }
+      },
+      "search_timeout": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/pysr/noiseless_nodrop/system-51/noiseless_nodrop/constrained_resource/15795/result.json",
+        "component": null,
+        "detail": "search_timeout",
+        "reason": null,
+        "budget": {
+          "evaluations": 10000,
+          "memory_gib": 8,
+          "search_seconds": 60.0
+        }
+      },
+      "not_applicable": {
+        "path": "/data5/taomingyu_5/parallel_comparsion_result/runs/20260926-external-ode-v2/tf4sr/noise01_nodrop/system-38/noise01_nodrop/capability_ceiling/23654/result.json",
+        "component": null,
+        "detail": "not_applicable",
+        "reason": "TF4SR is registered for compatible SRSD tabular tasks only.",
+        "budget": {
+          "evaluations": 250000,
+          "memory_gib": 32,
+          "search_seconds": 450.0
+        }
+      }
+    }
+  }
+}
