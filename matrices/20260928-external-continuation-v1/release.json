@@ -1,0 +1,11 @@
+{
+  "scheduler_commit": "d1f043293b0cef200bde8f8ca1d6dee780300978",
+  "release": "/data5/taomingyu_5/parallel_compars/releases/d1f0432",
+  "base_campaign_commit": "c83114f",
+  "retry_statuses": [
+    "startup_timeout",
+    "scoring_timeout"
+  ],
+  "startup_scoring_limits": "unbounded",
+  "search_and_memory_budgets": "preserved from formal manifest"
+}

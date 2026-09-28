@@ -50,3 +50,6 @@ and actual search budgets did not change.
 Dependent job 33994 audits expected records after all arrays terminate and
 writes the two completion summaries to the external deployment archive. Missing
 records remain visible; its completion flag is not a performance claim.
+
+
+**Continuation:** [20260928 no-default-cap recovery](../20260928-external-continuation-v1/README.md), jobs 34118/34119.

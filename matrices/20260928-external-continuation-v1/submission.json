@@ -1,0 +1,31 @@
+{
+  "time": 1790568277.6969047,
+  "jobs": [
+    {
+      "node": "node1",
+      "job_id": "34118",
+      "logical_cpus": 512,
+      "workers": 512,
+      "dependency": "afterany:34104:34105"
+    },
+    {
+      "node": "node2",
+      "job_id": "34119",
+      "logical_cpus": 512,
+      "workers": 512,
+      "dependency": "afterany:34104:34105"
+    }
+  ],
+  "summary_job_id": "34120",
+  "old_jobs": [
+    34104,
+    34105,
+    34106
+  ],
+  "retry_statuses": [
+    "startup_timeout",
+    "scoring_timeout"
+  ],
+  "no_batch_time_limit": true,
+  "formal_claim": false
+}
