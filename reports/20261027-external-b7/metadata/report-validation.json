@@ -1,0 +1,31 @@
+{
+  "frozen_benchmark_and_report_tests_passed": 72,
+  "elapsed_seconds": 9.8,
+  "new_report_tests_passed": 17,
+  "native_searches_in_report_preparation": 0,
+  "full_result_export_job": "36587",
+  "local_input_preservation_job": "36589",
+  "report_table_job": "36590",
+  "state": "Reviewed external-baseline package: full raw-result export, exact local input verification and fresh table/figure byte equality passed",
+  "raw_result_export_records": 221400,
+  "raw_result_export_issues": 0,
+  "primary_usable": 202878,
+  "input_csvs_full_readback": 5535,
+  "recomputed_table_files": 14,
+  "recomputed_figure_files": 6,
+  "all_recomputed_files_byte_identical": true,
+  "common_applicable_ode_systems": 4300,
+  "verification_environment": {
+    "python": "3.11.15 | packaged by conda-forge | (main, Aug 11 2026, 10:26:29) [GCC 14.4.0]",
+    "packages": {
+      "numpy": "2.4.6",
+      "scipy": "1.17.1",
+      "sympy": "1.14.0",
+      "pandas": "3.0.5",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1",
+      "jsonschema": "4.26.0",
+      "matplotlib": "3.11.1"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "removed_historical_truncated_scratch_fragments": 543,
+  "deleted_content_subset_proof_available": false,
+  "all_historical_fragment_bytes_recovered": false,
+  "complete_native_checkpoint_counterparts_retained": true,
+  "current_complete_terminal_matrix_is_separate_evidence": true,
+  "source_result_receipt_sha256": "ba8b1a2ea7ba86dc3583798fe37167fbdcc56c7fbb1170a3895190f5fb6c155c",
+  "current_cleanup_policy": "Retain uncertain bytes; no pruning by selection, timeout, invalidity or method performance."
+}

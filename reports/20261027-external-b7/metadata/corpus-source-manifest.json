@@ -1,0 +1,58 @@
+{
+  "archive_run_id": "20260925-formal-corpus-v1",
+  "entries": [
+    {
+      "file_count": 351,
+      "git_revision": "dc3f6daa93bf10955df8775256a6f8644f38fd93",
+      "git_status": "",
+      "path": "sources/srbench",
+      "source_id": "srbench"
+    },
+    {
+      "file_count": 79,
+      "git_revision": "7a002b4919f910976573ad43174a67517891c52a",
+      "git_status": "",
+      "path": "sources/srsd-feynman",
+      "source_id": "srsd-feynman"
+    },
+    {
+      "file_count": 11,
+      "git_revision": "4cab6369135be24a6b15444f12671861fd32fd44",
+      "git_status": "",
+      "path": "sources/odebench",
+      "source_id": "odebench"
+    },
+    {
+      "artifact": "raw/srbench-pmlb",
+      "bytes": 6544854,
+      "file_count": 96
+    },
+    {
+      "artifact": "raw/srsd-published-data/manifest.json",
+      "bytes": 202504,
+      "sha256": "8f5f515c0b01c61db13d87059f16b2b1559156b2c7bed25af7fb400da41c3bcd"
+    },
+    {
+      "artifact": "raw/srsd-dummy-variable-data/manifest.json",
+      "bytes": 168432,
+      "sha256": "01bf52f50c020cff5fec18a7e7f172d0f3d01de8ccc729834a5bce3f9433f487"
+    },
+    {
+      "artifact": "raw/odebench-manifest.json",
+      "bytes": 0,
+      "file_count": 0
+    },
+    {
+      "artifact": "raw/classic-equation-recovery/train.csv",
+      "bytes": 2049445,
+      "sha256": "03c0ceb53ed0348650c0a94ed5cd1e452325d2b7c7d3be68f9a458316eda33b1"
+    },
+    {
+      "artifact": "raw/classic-equation-recovery/generated/manifest.json",
+      "bytes": 46748,
+      "sha256": "cedb528dc386c58e6631f8a3f986f2ebd2127c95251a9736eaad35bcad38c562"
+    }
+  ],
+  "pmlb_revision": "7c1f4bdc00136dc2e55c87fa6b8ba6e8af6d1a68",
+  "schema_version": "formal-source-manifest-v1"
+}

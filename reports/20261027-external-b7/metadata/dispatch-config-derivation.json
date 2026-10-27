@@ -1,0 +1,17 @@
+{
+  "original-dispatch.json": {
+    "original_sha256": "0aa92e321a7ba4fdcfcb3061737d3b3b362bce158d9c3a7a0755386a283e3d9e",
+    "portable_sha256": "2f82e94f5b28c2f60628181a46c64fe208ebd61135f89c37747a47e16c40e08d",
+    "changes": "Machine-local roots/executable locations replaced; native settings, scientific budgets and source/input hashes retained."
+  },
+  "continuation-dispatch.json": {
+    "original_sha256": "bcd7a2f40252f90afc0013511ef28365b7f5f188218ce3289f27d0e2c2ac7d46",
+    "portable_sha256": "94f764e276790148ee1996bd5a80b584fb88e2dfcf819b36a166ad25bdb6486f",
+    "changes": "Machine-local roots/executable locations replaced; native settings, scientific budgets and source/input hashes retained."
+  },
+  "scope-extension-dispatch.json": {
+    "original_sha256": "612570dd6653dc4f0f30d05c7ebe73f5e5a531d8623d5d937bbbca6e294cdb4e",
+    "portable_sha256": "9ae5e9ff84828bfa07d5b46ce0b3edf3e5db981c67ad9599b4f19eac995c1fd8",
+    "changes": "Machine-local roots/executable locations replaced; native settings, scientific budgets and source/input hashes retained."
+  }
+}

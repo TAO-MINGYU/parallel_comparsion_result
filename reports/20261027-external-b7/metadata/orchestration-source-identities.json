@@ -1,0 +1,19 @@
+{
+  "resume_comparison.py": {
+    "sha256": "03c04fe56de056b357c8918cc9d6a20e29c60e2d5ca6f22d27ab8f137d56c36b",
+    "usage": "Historical deployed orchestration evidence; public single-fit replay is provided separately."
+  },
+  "resilient_node_pool.py": {
+    "sha256": "0761c5feb245fded06ed7956eabab875b7f4c4f9aea9406c93233baf1347a3d8",
+    "usage": "Historical deployed orchestration evidence; public single-fit replay is provided separately."
+  },
+  "run_applicability_extension.py": {
+    "sha256": "ec6f6d90ec1cf40f3821008783cc65f045b62e06cbb0db64c07f872f503b9ae2",
+    "usage": "Historical deployed orchestration evidence; public single-fit replay is provided separately."
+  },
+  "extend_applicability.py": {
+    "original_sha256": "cf47bad3c0cdceaadf3f9d9185f61d330b6daa8b726e7fa8a2a07d582b23d755",
+    "portable_sha256": "d24f3854f26485f128e1f78bdf42875500fd050b3a05b879c6ddd7d40dcc1794",
+    "changes": "Deployment-only supervisor executable placeholder; native scope patch is exact and separate."
+  }
+}

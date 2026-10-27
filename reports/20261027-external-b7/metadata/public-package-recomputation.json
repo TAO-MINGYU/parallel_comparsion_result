@@ -1,0 +1,34 @@
+{
+  "tables": {
+    "verified_files": 14,
+    "all_bytes_identical": true,
+    "sha256": {
+      "ode-system-common-summary.csv": "4fe1d3135abfebb9fb6c880a7195d29cba5abae37fa1760a40628f1bc25e05e3",
+      "ode-system-results.csv": "32b7377411bdd3fbf699034e31f2f09b8ba3811d64f420065e42fe8377d8883a",
+      "paired-case-catalog.csv": "bbbd42312e1974a0b43e31218226d89f2b4809b9c6c2d31c22e80b5df6536278",
+      "ode-system-summary.csv": "b56fc00fe83b52fb564497a93cf232f6d69ed4d5b2b00e2f3f19b8dcd962d238",
+      "kind.csv": "5b8200302a080f262f6b079766314f60925e79d4ad56d2b2b6ee713ad108fe56",
+      "summary.json": "dfb551e33dedd3b5fe7241bbfeda4a37d054d14c29fb0efabc3dcb02a6a78766",
+      "common_condition.csv": "84955c0c1918d161a1f29b0a7cd56d0a9c9232f2e780ce16a8362826333fd00e",
+      "overall.csv": "17a3e53b50f0b8f1e8c31f9dffd58b9b6e5f7a78f1d946f959ce347e4d5307cb",
+      "common_all_six.csv": "a70dc5d614a5b6adc67b984f3a6b12249001ee6168cb0f207be0b392d7a725ae",
+      "common_kind.csv": "ec6002a426f76542105eec2624c3fcf7c844f0227d3b7bc6ced3ef847d741a19",
+      "family.csv": "493159f307b5b953df23a8770b4c5f2f9726300dce500131e6bf42eee9156cfd",
+      "resource_epoch.csv": "652dc352d030c2f48133fe54a6de64d800c25d95f05721d5cb523c599879dc2b",
+      "mysr-run-template.jsonl.gz": "8704b5a75687b29b8ddab30f77c787506622ca95241d09b2b58809f4b28479ad",
+      "condition.csv": "045dc0f36790ebab6044bde47e6b1772d15561d98e776a2ca2d38c2db99e398a"
+    }
+  },
+  "figures": {
+    "verified_files": 6,
+    "all_bytes_identical": true,
+    "sha256": {
+      "ode-system-attainment.pdf": "732f288a9b0effedf98406d337b155707a2539dcbfe9d7c85a148135a0efffda",
+      "tabular-noise-attainment.svg": "e151ecb6b8e362770d54921eaa69d27f221212cc3760e90d3fb37ec5bbbd4a8c",
+      "prediction-coverage.pdf": "99628fdfa247258de6e6fdd2e38e09ddc3931ede9bf8af8c951ca66210de5473",
+      "prediction-coverage.svg": "5ec3c9101a18e7ed07ba244ac3860974a7979ad67a4084d5634375c40f69baba",
+      "tabular-noise-attainment.pdf": "ed5a435cb6017b43e8a009751d76e7289f37bf5c7a5693a001693725a5f06da0",
+      "ode-system-attainment.svg": "e9a7be746e43218f5e0b675afc007975cf8e4adfc6e987c2396ef41925c74cde"
+    }
+  }
+}

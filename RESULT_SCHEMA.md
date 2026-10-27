@@ -35,3 +35,29 @@ ODE system slots. It excludes MySR. Actual runs retain `result.json`, immutable
 Use `scripts/summarize_external_runs.py` with the executable manifest and raw
 output root to audit all expected slots. Missing files are counted as missing;
 completed failures are retained and never reclassified as successful fits.
+
+## Completed B7 records and scope amendment (2026-10-27)
+
+The archived v2 description above is historical. B7 uses the frozen
+`common-cpu-train-scale-v2` protocol: each scalar ODE component receives its own
+120/900-second search budget. It does not divide one system budget among its
+components, and has no cross-method evaluation-count or per-fit memory cap.
+
+`reports/20261027-external-b7/evidence/<method>.results.jsonl.gz` contains all
+selected terminal raw-result metadata, original raw-result SHA256, effective
+request-line SHA256, portable artifact locations, primary/observed scores,
+source/resource provenance and outcome status. The actual installed package
+versions and separately pinned upstream checkout identities are global metadata;
+an installed wheel's commit is not invented from a checkout revision.
+
+The amended selection replaces only the 12,100 prespecified formerly NA slots,
+retaining every amended failure. Original B7 and extension summaries are both
+published; this is not best-test-score selection across retries. The final
+amended matrix includes 202,878 usable predictions, 9,642 applicable records
+without a usable prediction, and 8,880 not-applicable records.
+
+The derived table schema keeps registered/applicable/usable counts separate,
+reports failures in threshold-attainment denominators, and retains both clean
+latent/derivative and observed-target errors. ODE system metrics require every
+component. See the report for pretrained-model, configuration-optimality,
+resource-epoch and historical preservation limitations.

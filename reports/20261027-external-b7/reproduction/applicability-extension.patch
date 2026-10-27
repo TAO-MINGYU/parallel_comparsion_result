@@ -1,0 +1,59 @@
+--- a/benchmark_mysr/external/worker.py
++++ b/benchmark_mysr/external/worker.py
+@@ -1,4 +1,6 @@
+ """One solver run in its pinned environment; invoked by the supervisor."""
++AMENDMENT = 'native-scope-extension-20261027-v1'
++
+ import csv
+ import hashlib
+ import json
+@@ -48,9 +50,9 @@
+     started = time.monotonic()
+     selected = None
+     try:
+-        if request['method'] == 'tf4sr' and not request.get('task_id', '').startswith('srsd-'):
++        if request.get('applicability_amendment') != AMENDMENT and request['method'] == 'tf4sr' and not request.get('task_id', '').startswith('srsd-'):
+             raise NotApplicable('TF4SR is registered for compatible SRSD tabular tasks only.')
+-        if request['method'] == 'ai_feynman_2' and not request.get('ground_truth_available', False):
++        if request.get('applicability_amendment') != AMENDMENT and request['method'] == 'ai_feynman_2' and not request.get('ground_truth_available', False):
+             raise NotApplicable('AI-Feynman is registered for known-expression tasks only.')
+         train = read_split(Path(request['data']) / 'train.csv')
+         val = read_split(Path(request['data']) / 'validation.csv')
+--- a/benchmark_mysr/external/solvers.py
++++ b/benchmark_mysr/external/solvers.py
+@@ -1,4 +1,6 @@
+ """Native external solver APIs. Only training observations enter these functions."""
++AMENDMENT = 'native-scope-extension-20261027-v1'
++
+ import os
+ import random
+ import sys
+@@ -231,7 +233,7 @@
+         details.update(evaluation_count=int(m.trainer.nevals), evaluation_semantics='native_sampled_programs',
+                        frontier_kind='all_cached_valid_programs', execution_backend='native_python_fallback_when_cyfunc_absent')
+     elif method == 'ai_feynman_2':
+-        if not request.get('ground_truth_available', False):
++        if request.get('applicability_amendment') != AMENDMENT and not request.get('ground_truth_available', False):
+             raise NotApplicable('Pre-registered physics/known-expression tasks only; black-box excluded.')
+         local_entrypoints(Path(sys.executable))
+         Path('input').mkdir(exist_ok=True)
+@@ -349,7 +351,7 @@
+     from datasets._utils import from_sequence_to_sympy
+     from .fair import enabled
+     fair = enabled(request)
+-    if not request.get('task_id', '').startswith('srsd-'):
++    if request.get('applicability_amendment') != AMENDMENT and not request.get('task_id', '').startswith('srsd-'):
+         raise NotApplicable('TF4SR is registered for SRSD tabular tasks only, not ODE or legacy/black-box.')
+     if X.shape[1] > 6:
+         raise NotApplicable('Pretrained TF4SR supports at most six input variables.')
+--- a/benchmark_mysr/external/runner.py
++++ b/benchmark_mysr/external/runner.py
+@@ -188,7 +188,7 @@
+                       resource_measurement='waited_child_cpu_accounting_and_process_tree_rss_sampled_200ms_no_slurm_memory_claim',
+                       stage=stage_info, formal_claim=False,
+                       evidence_scope='registered_external_native_solver_run_pending_campaign_audit')
+-        for key in ('comparison_protocol', 'comparison_protocol_sha256', 'component'):
++        for key in ('comparison_protocol', 'comparison_protocol_sha256', 'component', 'applicability_amendment', 'original_not_applicable'):
+             if key in request:
+                 result[key] = request[key]
+         checkpoint = output/'native-frontier.json'

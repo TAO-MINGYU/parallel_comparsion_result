@@ -1,0 +1,356 @@
+{
+  "completed_at": "2026-10-27T12:38:06.439623+00:00",
+  "counts": {
+    "records": 221400,
+    "search_timeout": 139988,
+    "observed_usable": 202878,
+    "primary_usable": 202878,
+    "success": 64800,
+    "invalid_output": 7732,
+    "not_applicable": 8880
+  },
+  "method_counts": {
+    "pysr": {
+      "records": 36900,
+      "observed_usable": 36494,
+      "primary_usable": 36494
+    },
+    "operon": {
+      "records": 36900,
+      "observed_usable": 36685,
+      "primary_usable": 36685
+    },
+    "dsr": {
+      "records": 36900,
+      "observed_usable": 35820,
+      "primary_usable": 35820
+    },
+    "ai_feynman_2": {
+      "records": 36900,
+      "observed_usable": 36357,
+      "primary_usable": 36357
+    },
+    "gplearn": {
+      "records": 36900,
+      "observed_usable": 36860,
+      "primary_usable": 36860
+    },
+    "tf4sr": {
+      "records": 36900,
+      "observed_usable": 20662,
+      "primary_usable": 20662
+    }
+  },
+  "issue_count": 0,
+  "issues": [],
+  "input_hashes": {
+    "B7_requests_sha256": "094891ac33f2824a67bd757ee338dff95caa1aa2c68e4ef3a796e6e0f36c4591",
+    "extension_requests_sha256": "fe5657df7893388dde7e1adf6bc8d7999f6e3f0ea9356d66cd617fc48e93d57d",
+    "combined_audit_records_sha256": "69aceedff891fdff16bf6aa4fb0eb620d2f2f8cc5553bbde2853dd7d262fe1b6"
+  },
+  "adapter_sources": [
+    {
+      "method": "pysr",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "operon",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "dsr",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "ai_feynman_2",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "ai_feynman_2",
+      "writer_job": "36559",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "0ef8308f35d0310583c49ab48e8dc8355c318781640c38b139312092f6c43d9a",
+        "solvers.py": "666db5c3d65e45e69a832f5dfe44ed9a9f95001bc8e9b84b4aa5be6174cbab2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "897d049df1c39a6102fb558a2df9d3dd7ecaca4f9acca62622f76c572a4c3fbc"
+      }
+    },
+    {
+      "method": "gplearn",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "tf4sr",
+      "writer_job": "36559",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "0ef8308f35d0310583c49ab48e8dc8355c318781640c38b139312092f6c43d9a",
+        "solvers.py": "666db5c3d65e45e69a832f5dfe44ed9a9f95001bc8e9b84b4aa5be6174cbab2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "897d049df1c39a6102fb558a2df9d3dd7ecaca4f9acca62622f76c572a4c3fbc"
+      }
+    },
+    {
+      "method": "tf4sr",
+      "writer_job": "35055",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "pysr",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "operon",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "dsr",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "ai_feynman_2",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "gplearn",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    },
+    {
+      "method": "tf4sr",
+      "writer_job": "36320",
+      "hashes": {
+        "__init__.py": "900728f05b63902a3f0249a2c37dac85d284b1a9265d002977c6e3f8e9f87e33",
+        "campaign.py": "ce0812a4b5572ad9df029c403eb48e0998fb341412729da2fc315e04fd111255",
+        "checkpoints.py": "c894e6a09fd09bad0f33ce888becf974efaa437767a379d7cdbb86858f77d77c",
+        "fair.py": "a91a31b5f5684f3a7ef9ef2d1b2da72b75d9003b26ce987b3c2b3cad88fbcd55",
+        "fair_finalize.py": "7906f4aa277ba66648f50e178c401110c131428d2be4ca8104610b9e537b6adf",
+        "fair_plan.py": "9a45c782ee50bb56076ddcc66be1efcb12a27b2d33ebd8c8fa0d8843ca785bf8",
+        "ode.py": "aa6f4ca5de3f5f9a0d66dc1ffe6f28339023a2c679fdf80e0f823e63a40d9144",
+        "repair.py": "1848361d66e687cdcab2d5eae197087cffb76d6a1b71792a3270390a4d786398",
+        "runner.py": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782",
+        "solvers.py": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f",
+        "stage.py": "1de3bd102ad35861b498c46c7968edaf8a264a18b3fb7775349aee32f309ab87",
+        "units.py": "41105faed6fd854edd425338143568624f8ba4aeedcce83e01b12ea57c9c0352",
+        "worker.py": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+      }
+    }
+  ],
+  "outputs": {
+    "ai_feynman_2.results.jsonl.gz": {
+      "sha256": "0a589447b0492ab016f2efdec110c4ba15d22765b2b52b6178371149e032dca2",
+      "bytes": 11635432
+    },
+    "dsr.results.jsonl.gz": {
+      "sha256": "53ec6df1a5bb7044d4ddeb29296bd3144e1b047cd97b834a9a99d75f1f369646",
+      "bytes": 17363879
+    },
+    "effective-requests.portable.jsonl.gz": {
+      "sha256": "063ed1cfda5d76418dd9048d17ecce5c26adbf61e6a74a8f3bebcb44c09148d3",
+      "bytes": 5075890
+    },
+    "gplearn.results.jsonl.gz": {
+      "sha256": "4fda956837b32f971407ae597c6ad12c272530ea38febe88ec9c6ec63c26cf5b",
+      "bytes": 15522337
+    },
+    "operon.results.jsonl.gz": {
+      "sha256": "bc107ae25b2bca06415a5b66ab07f1f364c59c3ec021053b87bde5a31ab4653e",
+      "bytes": 21766020
+    },
+    "pysr.results.jsonl.gz": {
+      "sha256": "2b20a848e8afda38a6a2fc363edc926014f3bdc6037a56d47ca80fd35ba523a5",
+      "bytes": 17131951
+    },
+    "tf4sr.results.jsonl.gz": {
+      "sha256": "558bc8c8da8f8705d60bf8a8f08ffcaf65615d84b4726628f963e7d3f4cbd5e5",
+      "bytes": 15346340
+    }
+  },
+  "freshly_verified": "All221400 raw result files, scientific identities, both target scores and original audit agreement",
+  "frontier_prediction_evidence": "Retained expected frontier hashes and prediction metadata from completed native audits; not a new full multi-terabyte frontier rehash",
+  "native_searches_started": 0,
+  "raw_results_modified": false,
+  "portable_requests_change_paths": true,
+  "portable_request_hashes_are_not_original_request_hashes": true,
+  "formal_comparison_ready": false
+}

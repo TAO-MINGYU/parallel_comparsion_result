@@ -1,0 +1,12 @@
+{
+  "corpus-materialized-manifest.json": {
+    "original_sha256": "0e2b820e1d4c50830b4838524027c3a05bee38ef319db7686d57b2229d263f15",
+    "portable_sha256": "55ddba8b41e45035affcc7e36578d61bed1773d966e308023e87d0442b7b180a",
+    "changes": "Replace historical local corpus root only"
+  },
+  "matrix-summary.json": {
+    "original_sha256": "9f1fc11e86663bd2097a0489ff4a8db8738a535b8840b20a23f905ffa25feec8",
+    "portable_sha256": "03a5a32d55d5b03b26341288bec3a6164981c122631e5223abe0f4571fe9d927",
+    "changes": "Replace historical local corpus root only"
+  }
+}

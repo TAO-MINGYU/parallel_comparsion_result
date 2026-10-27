@@ -1,0 +1,49 @@
+{
+  "applicability_amendment": "native-scope-extension-20261027-v1",
+  "complete_ode_aggregates": 37800,
+  "formal_comparison_ready": false,
+  "method_counts": {
+    "ai_feynman_2": {
+      "applicable": 36900,
+      "records": 36900,
+      "usable": 36357
+    },
+    "dsr": {
+      "applicable": 36900,
+      "records": 36900,
+      "usable": 35820
+    },
+    "gplearn": {
+      "applicable": 36900,
+      "records": 36900,
+      "usable": 36860
+    },
+    "operon": {
+      "applicable": 36900,
+      "records": 36900,
+      "usable": 36685
+    },
+    "pysr": {
+      "applicable": 36900,
+      "records": 36900,
+      "usable": 36494
+    },
+    "tf4sr": {
+      "applicable": 28020,
+      "records": 36900,
+      "usable": 20662
+    }
+  },
+  "mysr_results_present": false,
+  "native_records": 221400,
+  "ode_aggregates": 37800,
+  "replaced_original_na_records": 12100,
+  "scope": "Original audited B7 plus all prespecified native-eligible formerly NA outcomes, including negative results; no best-of-retry selection.",
+  "statuses": {
+    "invalid_output": 7732,
+    "not_applicable": 8880,
+    "search_timeout": 139988,
+    "success": 64800
+  },
+  "usable_predictions": 202878
+}

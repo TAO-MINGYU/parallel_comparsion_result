@@ -1,0 +1,3139 @@
+{
+  "archive_run_id": "20260925-formal-corpus-v1",
+  "schema_version": "formal-materialized-corpus-v1",
+  "task_count": 315,
+  "tasks": [
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_0",
+      "material": "A",
+      "noise_seed": 234290041099483166,
+      "output": "processed/material-A/legacy-classic-keijzer_0",
+      "result": {
+        "clean_train_std": 0.11153995273686182,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_0",
+        "status": "generated",
+        "task_id": "keijzer_0",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_0"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_1",
+      "material": "A",
+      "noise_seed": 5148672642390017174,
+      "output": "processed/material-A/legacy-classic-keijzer_1",
+      "result": {
+        "clean_train_std": 0.2364325603265141,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_1",
+        "status": "generated",
+        "task_id": "keijzer_1",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_10",
+      "material": "A",
+      "noise_seed": 8096690940301517501,
+      "output": "processed/material-A/legacy-classic-keijzer_10",
+      "result": {
+        "clean_train_std": 391.0883601168336,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_10",
+        "status": "generated",
+        "task_id": "keijzer_10",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_11",
+      "material": "A",
+      "noise_seed": 3747082251929123765,
+      "output": "processed/material-A/legacy-classic-keijzer_11",
+      "result": {
+        "clean_train_std": 0.8457280017848431,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_11",
+        "status": "generated",
+        "task_id": "keijzer_11",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_12",
+      "material": "A",
+      "noise_seed": 2073592531031693316,
+      "output": "processed/material-A/legacy-classic-keijzer_12",
+      "result": {
+        "clean_train_std": 2.320637799952842,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_12",
+        "status": "generated",
+        "task_id": "keijzer_12",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_13",
+      "material": "A",
+      "noise_seed": 8425604615734269475,
+      "output": "processed/material-A/legacy-classic-keijzer_13",
+      "result": {
+        "clean_train_std": 0.9707460170761444,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_13",
+        "status": "generated",
+        "task_id": "keijzer_13",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_14",
+      "material": "A",
+      "noise_seed": 4963836964226483088,
+      "output": "processed/material-A/legacy-classic-keijzer_14",
+      "result": {
+        "clean_train_std": 0.25557029562999195,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_14",
+        "status": "generated",
+        "task_id": "keijzer_14",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_2",
+      "material": "A",
+      "noise_seed": 3082906314915897721,
+      "output": "processed/material-A/legacy-classic-keijzer_2",
+      "result": {
+        "clean_train_std": 3.124345690373734,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_2",
+        "status": "generated",
+        "task_id": "keijzer_2",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_3",
+      "material": "A",
+      "noise_seed": 4725263520909371936,
+      "output": "processed/material-A/legacy-classic-keijzer_3",
+      "result": {
+        "clean_train_std": 24.146868574047964,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_3",
+        "status": "generated",
+        "task_id": "keijzer_3",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_4",
+      "material": "A",
+      "noise_seed": 7885792525600859320,
+      "output": "processed/material-A/legacy-classic-keijzer_4",
+      "result": {
+        "clean_train_std": 3.012500412264441,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_4",
+        "status": "generated",
+        "task_id": "keijzer_4",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_5",
+      "material": "A",
+      "noise_seed": 500201659881992165,
+      "output": "processed/material-A/legacy-classic-keijzer_5",
+      "result": {
+        "clean_train_std": 0.8300637066089052,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_5",
+        "status": "generated",
+        "task_id": "keijzer_5",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_6",
+      "material": "A",
+      "noise_seed": 1189732972507591587,
+      "output": "processed/material-A/legacy-classic-keijzer_6",
+      "result": {
+        "clean_train_std": 3.6381995487037364,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_6",
+        "status": "generated",
+        "task_id": "keijzer_6",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_7",
+      "material": "A",
+      "noise_seed": 5964644723429385321,
+      "output": "processed/material-A/legacy-classic-keijzer_7",
+      "result": {
+        "clean_train_std": 0.3556071744916366,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_7",
+        "status": "generated",
+        "task_id": "keijzer_7",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_8",
+      "material": "A",
+      "noise_seed": 570363180963725913,
+      "output": "processed/material-A/legacy-classic-keijzer_8",
+      "result": {
+        "clean_train_std": 0.3256291149163813,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_8",
+        "status": "generated",
+        "task_id": "keijzer_8",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/keijzer_9",
+      "material": "A",
+      "noise_seed": 3552953680739117216,
+      "output": "processed/material-A/legacy-classic-keijzer_9",
+      "result": {
+        "clean_train_std": 66598.5711736665,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-keijzer_9",
+        "status": "generated",
+        "task_id": "keijzer_9",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-keijzer_9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_0",
+      "material": "A",
+      "noise_seed": 6258538916937780830,
+      "output": "processed/material-A/legacy-classic-korns_0",
+      "result": {
+        "clean_train_std": 689.2204523738184,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_0",
+        "status": "generated",
+        "task_id": "korns_0",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_0"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_1",
+      "material": "A",
+      "noise_seed": 1646439205854056489,
+      "output": "processed/material-A/legacy-classic-korns_1",
+      "result": {
+        "clean_train_std": 105.91787592226343,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_1",
+        "status": "generated",
+        "task_id": "korns_1",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_10",
+      "material": "A",
+      "noise_seed": 6380529120746895239,
+      "output": "processed/material-A/legacy-classic-korns_10",
+      "result": {
+        "clean_train_std": 0.21750294642981424,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_10",
+        "status": "generated",
+        "task_id": "korns_10",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_11",
+      "material": "A",
+      "noise_seed": 4791712185215657449,
+      "output": "processed/material-A/legacy-classic-korns_11",
+      "result": {
+        "clean_train_std": 167469331586.59915,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_11",
+        "status": "generated",
+        "task_id": "korns_11",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_12",
+      "material": "A",
+      "noise_seed": 3991370399227024855,
+      "output": "processed/material-A/legacy-classic-korns_12",
+      "result": {
+        "clean_train_std": 2153.7999520595813,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_12",
+        "status": "generated",
+        "task_id": "korns_12",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_13",
+      "material": "A",
+      "noise_seed": 325675693475995880,
+      "output": "processed/material-A/legacy-classic-korns_13",
+      "result": {
+        "clean_train_std": 1.1835894536862779e+20,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_13",
+        "status": "generated",
+        "task_id": "korns_13",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_14",
+      "material": "A",
+      "noise_seed": 2390356109723030484,
+      "output": "processed/material-A/legacy-classic-korns_14",
+      "result": {
+        "clean_train_std": 23.527274361803073,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_14",
+        "status": "generated",
+        "task_id": "korns_14",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_2",
+      "material": "A",
+      "noise_seed": 5476745412486476713,
+      "output": "processed/material-A/legacy-classic-korns_2",
+      "result": {
+        "clean_train_std": 7.803787764410403,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_2",
+        "status": "generated",
+        "task_id": "korns_2",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_3",
+      "material": "A",
+      "noise_seed": 4560573204856004286,
+      "output": "processed/material-A/legacy-classic-korns_3",
+      "result": {
+        "clean_train_std": 1.045719759460852,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_3",
+        "status": "generated",
+        "task_id": "korns_3",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_4",
+      "material": "A",
+      "noise_seed": 8045412743274964998,
+      "output": "processed/material-A/legacy-classic-korns_4",
+      "result": {
+        "clean_train_std": 5316.031489430996,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_4",
+        "status": "generated",
+        "task_id": "korns_4",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_5",
+      "material": "A",
+      "noise_seed": 3209295988257736572,
+      "output": "processed/material-A/legacy-classic-korns_5",
+      "result": {
+        "clean_train_std": 1499.1797739382112,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_5",
+        "status": "generated",
+        "task_id": "korns_5",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_6",
+      "material": "A",
+      "noise_seed": 6420634550825663061,
+      "output": "processed/material-A/legacy-classic-korns_6",
+      "result": {
+        "clean_train_std": 10.418105398870923,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_6",
+        "status": "generated",
+        "task_id": "korns_6",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_7",
+      "material": "A",
+      "noise_seed": 1012988896196905016,
+      "output": "processed/material-A/legacy-classic-korns_7",
+      "result": {
+        "clean_train_std": 261.13470341385164,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_7",
+        "status": "generated",
+        "task_id": "korns_7",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_8",
+      "material": "A",
+      "noise_seed": 4775766799041312219,
+      "output": "processed/material-A/legacy-classic-korns_8",
+      "result": {
+        "clean_train_std": 0.09109840810749893,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_8",
+        "status": "generated",
+        "task_id": "korns_8",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/korns_9",
+      "material": "A",
+      "noise_seed": 1338502210446019094,
+      "output": "processed/material-A/legacy-classic-korns_9",
+      "result": {
+        "clean_train_std": 2.1598957924695266,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-korns_9",
+        "status": "generated",
+        "task_id": "korns_9",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-korns_9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_0",
+      "material": "A",
+      "noise_seed": 7518199715956801716,
+      "output": "processed/material-A/legacy-classic-nguyen_0",
+      "result": {
+        "clean_train_std": 1.0141726468984453,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_0",
+        "status": "generated",
+        "task_id": "nguyen_0",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_0"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_1",
+      "material": "A",
+      "noise_seed": 8899369026766767051,
+      "output": "processed/material-A/legacy-classic-nguyen_1",
+      "result": {
+        "clean_train_std": 1.0361415212169203,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_1",
+        "status": "generated",
+        "task_id": "nguyen_1",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_10",
+      "material": "A",
+      "noise_seed": 6969928388353988888,
+      "output": "processed/material-A/legacy-classic-nguyen_10",
+      "result": {
+        "clean_train_std": 0.5784573914661835,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_10",
+        "status": "generated",
+        "task_id": "nguyen_10",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_11",
+      "material": "A",
+      "noise_seed": 8426703266512731165,
+      "output": "processed/material-A/legacy-classic-nguyen_11",
+      "result": {
+        "clean_train_std": 0.8707608813612956,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_11",
+        "status": "generated",
+        "task_id": "nguyen_11",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_2",
+      "material": "A",
+      "noise_seed": 6027629870517089430,
+      "output": "processed/material-A/legacy-classic-nguyen_2",
+      "result": {
+        "clean_train_std": 0.2641621172006528,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_2",
+        "status": "generated",
+        "task_id": "nguyen_2",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_3",
+      "material": "A",
+      "noise_seed": 1643726876875534001,
+      "output": "processed/material-A/legacy-classic-nguyen_3",
+      "result": {
+        "clean_train_std": 0.15554889718730697,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_3",
+        "status": "generated",
+        "task_id": "nguyen_3",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_4",
+      "material": "A",
+      "noise_seed": 4191024400801312112,
+      "output": "processed/material-A/legacy-classic-nguyen_4",
+      "result": {
+        "clean_train_std": 1.2691205574709554,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_4",
+        "status": "generated",
+        "task_id": "nguyen_4",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_5",
+      "material": "A",
+      "noise_seed": 1086235564003978245,
+      "output": "processed/material-A/legacy-classic-nguyen_5",
+      "result": {
+        "clean_train_std": 1.375586552080513,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_5",
+        "status": "generated",
+        "task_id": "nguyen_5",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_6",
+      "material": "A",
+      "noise_seed": 4528357211473808731,
+      "output": "processed/material-A/legacy-classic-nguyen_6",
+      "result": {
+        "clean_train_std": 0.16250404663566764,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_6",
+        "status": "generated",
+        "task_id": "nguyen_6",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_7",
+      "material": "A",
+      "noise_seed": 8921915977343301252,
+      "output": "processed/material-A/legacy-classic-nguyen_7",
+      "result": {
+        "clean_train_std": 0.9723818187705374,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_7",
+        "status": "generated",
+        "task_id": "nguyen_7",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_8",
+      "material": "A",
+      "noise_seed": 480961745177984134,
+      "output": "processed/material-A/legacy-classic-nguyen_8",
+      "result": {
+        "clean_train_std": 0.7972108533797944,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_8",
+        "status": "generated",
+        "task_id": "nguyen_8",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/nguyen_9",
+      "material": "A",
+      "noise_seed": 8919481955493581386,
+      "output": "processed/material-A/legacy-classic-nguyen_9",
+      "result": {
+        "clean_train_std": 0.462396407663115,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-nguyen_9",
+        "status": "generated",
+        "task_id": "nguyen_9",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-nguyen_9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/pagie_0",
+      "material": "A",
+      "noise_seed": 8773165073144216612,
+      "output": "processed/material-A/legacy-classic-pagie_0",
+      "result": {
+        "clean_train_std": 0.5017886488212182,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-pagie_0",
+        "status": "generated",
+        "task_id": "pagie_0",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-pagie_0"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_0",
+      "material": "A",
+      "noise_seed": 455394367629106512,
+      "output": "processed/material-A/legacy-classic-vladislavleva_0",
+      "result": {
+        "clean_train_std": 0.22525394794618187,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_0",
+        "status": "generated",
+        "task_id": "vladislavleva_0",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_0"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_1",
+      "material": "A",
+      "noise_seed": 1122336331839390777,
+      "output": "processed/material-A/legacy-classic-vladislavleva_1",
+      "result": {
+        "clean_train_std": 0.3081537093576219,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_1",
+        "status": "generated",
+        "task_id": "vladislavleva_1",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_2",
+      "material": "A",
+      "noise_seed": 2114485748930127219,
+      "output": "processed/material-A/legacy-classic-vladislavleva_2",
+      "result": {
+        "clean_train_std": 0.8410307648736994,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_2",
+        "status": "generated",
+        "task_id": "vladislavleva_2",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_3",
+      "material": "A",
+      "noise_seed": 992415834186260571,
+      "output": "processed/material-A/legacy-classic-vladislavleva_3",
+      "result": {
+        "clean_train_std": 0.20056841602517328,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_3",
+        "status": "generated",
+        "task_id": "vladislavleva_3",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_4",
+      "material": "A",
+      "noise_seed": 2235200586406993701,
+      "output": "processed/material-A/legacy-classic-vladislavleva_4",
+      "result": {
+        "clean_train_std": 0.6065052429178902,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_4",
+        "status": "generated",
+        "task_id": "vladislavleva_4",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_5",
+      "material": "A",
+      "noise_seed": 7684660210861733392,
+      "output": "processed/material-A/legacy-classic-vladislavleva_5",
+      "result": {
+        "clean_train_std": 3.1503524716867877,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_5",
+        "status": "generated",
+        "task_id": "vladislavleva_5",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_6",
+      "material": "A",
+      "noise_seed": 8510368960416026854,
+      "output": "processed/material-A/legacy-classic-vladislavleva_6",
+      "result": {
+        "clean_train_std": 4.971253619616295,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_6",
+        "status": "generated",
+        "task_id": "vladislavleva_6",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "raw/classic-equation-recovery/generated/legacy-classic/vladislavleva_7",
+      "material": "A",
+      "noise_seed": 9064019826190744853,
+      "output": "processed/material-A/legacy-classic-vladislavleva_7",
+      "result": {
+        "clean_train_std": 1.653100898449022,
+        "output": "${CORPUS_ROOT}/processed/material-A/legacy-classic-vladislavleva_7",
+        "status": "generated",
+        "task_id": "vladislavleva_7",
+        "variants": [
+          "clean",
+          "output_noise_01",
+          "output_noise_05",
+          "output_noise_10"
+        ]
+      },
+      "task_id": "legacy-classic-vladislavleva_7"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-1028_SWD",
+      "material": "A",
+      "noise_seed": 116604658739646532,
+      "output": "processed/material-A/srbench-blackbox-1028_SWD",
+      "task_id": "srbench-blackbox-1028_SWD"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-1089_USCrime",
+      "material": "A",
+      "noise_seed": 4173034590330881882,
+      "output": "processed/material-A/srbench-blackbox-1089_USCrime",
+      "task_id": "srbench-blackbox-1089_USCrime"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-1193_BNG_lowbwt",
+      "material": "A",
+      "noise_seed": 471746984274073264,
+      "output": "processed/material-A/srbench-blackbox-1193_BNG_lowbwt",
+      "task_id": "srbench-blackbox-1193_BNG_lowbwt"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-1199_BNG_echoMonths",
+      "material": "A",
+      "noise_seed": 1386742535408960993,
+      "output": "processed/material-A/srbench-blackbox-1199_BNG_echoMonths",
+      "task_id": "srbench-blackbox-1199_BNG_echoMonths"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-192_vineyard",
+      "material": "A",
+      "noise_seed": 3020507210871985714,
+      "output": "processed/material-A/srbench-blackbox-192_vineyard",
+      "task_id": "srbench-blackbox-192_vineyard"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-210_cloud",
+      "material": "A",
+      "noise_seed": 6477459468394421712,
+      "output": "processed/material-A/srbench-blackbox-210_cloud",
+      "task_id": "srbench-blackbox-210_cloud"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-522_pm10",
+      "material": "A",
+      "noise_seed": 5913397036788652075,
+      "output": "processed/material-A/srbench-blackbox-522_pm10",
+      "task_id": "srbench-blackbox-522_pm10"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-557_analcatdata_apnea1",
+      "material": "A",
+      "noise_seed": 2049275556022329832,
+      "output": "processed/material-A/srbench-blackbox-557_analcatdata_apnea1",
+      "task_id": "srbench-blackbox-557_analcatdata_apnea1"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-579_fri_c0_250_5",
+      "material": "A",
+      "noise_seed": 461410168330380673,
+      "output": "processed/material-A/srbench-blackbox-579_fri_c0_250_5",
+      "task_id": "srbench-blackbox-579_fri_c0_250_5"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-606_fri_c2_1000_10",
+      "material": "A",
+      "noise_seed": 2185506864764491097,
+      "output": "processed/material-A/srbench-blackbox-606_fri_c2_1000_10",
+      "task_id": "srbench-blackbox-606_fri_c2_1000_10"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-650_fri_c0_500_50",
+      "material": "A",
+      "noise_seed": 3606283735882471720,
+      "output": "processed/material-A/srbench-blackbox-650_fri_c0_500_50",
+      "task_id": "srbench-blackbox-650_fri_c0_500_50"
+    },
+    {
+      "ground_truth_available": false,
+      "input": "normalized_inputs/material-A/srbench-blackbox-678_visualizing_environmental",
+      "material": "A",
+      "noise_seed": 2083764798761661445,
+      "output": "processed/material-A/srbench-blackbox-678_visualizing_environmental",
+      "task_id": "srbench-blackbox-678_visualizing_environmental"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_absorption",
+      "material": "A",
+      "noise_seed": 807214491126617482,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_absorption",
+      "task_id": "srbench-firstprinciples-first_principles_absorption"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_bode",
+      "material": "A",
+      "noise_seed": 6215236495651486038,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_bode",
+      "task_id": "srbench-firstprinciples-first_principles_bode"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_hubble",
+      "material": "A",
+      "noise_seed": 219523993916026280,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_hubble",
+      "task_id": "srbench-firstprinciples-first_principles_hubble"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_ideal_gas",
+      "material": "A",
+      "noise_seed": 7012715398193305423,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_ideal_gas",
+      "task_id": "srbench-firstprinciples-first_principles_ideal_gas"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_kepler",
+      "material": "A",
+      "noise_seed": 4638996682507573227,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_kepler",
+      "task_id": "srbench-firstprinciples-first_principles_kepler"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_leavitt",
+      "material": "A",
+      "noise_seed": 6798126007331946951,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_leavitt",
+      "task_id": "srbench-firstprinciples-first_principles_leavitt"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_newton",
+      "material": "A",
+      "noise_seed": 5315924319551059117,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_newton",
+      "task_id": "srbench-firstprinciples-first_principles_newton"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_planck",
+      "material": "A",
+      "noise_seed": 6106511976007120238,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_planck",
+      "task_id": "srbench-firstprinciples-first_principles_planck"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_rydberg",
+      "material": "A",
+      "noise_seed": 1857865296214452739,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_rydberg",
+      "task_id": "srbench-firstprinciples-first_principles_rydberg"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_schechter",
+      "material": "A",
+      "noise_seed": 8710700191514846949,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_schechter",
+      "task_id": "srbench-firstprinciples-first_principles_schechter"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_supernovae_zr",
+      "material": "A",
+      "noise_seed": 6906305361340329281,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_supernovae_zr",
+      "task_id": "srbench-firstprinciples-first_principles_supernovae_zr"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-A/srbench-firstprinciples-first_principles_tully_fisher",
+      "material": "A",
+      "noise_seed": 5632482860594224571,
+      "output": "processed/material-A/srbench-firstprinciples-first_principles_tully_fisher",
+      "task_id": "srbench-firstprinciples-first_principles_tully_fisher"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.12.1",
+      "material": "B",
+      "noise_seed": 2693746405314550746,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.12.1",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.12.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.12.4",
+      "material": "B",
+      "noise_seed": 7506236522343178301,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.12.4",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.12.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.12.5",
+      "material": "B",
+      "noise_seed": 2800261391157090077,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.12.5",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.12.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.14.3",
+      "material": "B",
+      "noise_seed": 1723413886117556133,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.14.3",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.14.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.14.4",
+      "material": "B",
+      "noise_seed": 2911142008032097368,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.14.4",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.14.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.18.12",
+      "material": "B",
+      "noise_seed": 1876969791939372622,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.18.12",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.18.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.18.16",
+      "material": "B",
+      "noise_seed": 2685145419569659072,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.18.16",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.18.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.25.13",
+      "material": "B",
+      "noise_seed": 5853799233213205511,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.25.13",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.25.13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.26.2",
+      "material": "B",
+      "noise_seed": 5922103455809589504,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.26.2",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.26.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.27.6",
+      "material": "B",
+      "noise_seed": 5609925556930250241,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.27.6",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.27.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.30.5",
+      "material": "B",
+      "noise_seed": 763300721780635638,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.30.5",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.30.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.43.16",
+      "material": "B",
+      "noise_seed": 7353068103204123438,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.43.16",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.43.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-i.47.23",
+      "material": "B",
+      "noise_seed": 4642259275915803735,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-i.47.23",
+      "task_id": "srsd-dummy-variable-easy-feynman-i.47.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.10.9",
+      "material": "B",
+      "noise_seed": 8353677751810056855,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.10.9",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.10.9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.13.17",
+      "material": "B",
+      "noise_seed": 7062291917409983756,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.13.17",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.13.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.15.4",
+      "material": "B",
+      "noise_seed": 2974352166419947214,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.15.4",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.15.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.15.5",
+      "material": "B",
+      "noise_seed": 8234924255179552292,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.15.5",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.15.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.2.42",
+      "material": "B",
+      "noise_seed": 8967025532985685426,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.2.42",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.2.42"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.27.16",
+      "material": "B",
+      "noise_seed": 610464058489032503,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.27.16",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.27.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.27.18",
+      "material": "B",
+      "noise_seed": 6934179739777947799,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.27.18",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.27.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.3.24",
+      "material": "B",
+      "noise_seed": 3967579098519395281,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.3.24",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.3.24"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.34.11",
+      "material": "B",
+      "noise_seed": 2760948185082151891,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.34.11",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.34.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.34.29b",
+      "material": "B",
+      "noise_seed": 4254851091795303243,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.34.29b",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.34.29b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.38.14",
+      "material": "B",
+      "noise_seed": 8462604135316148929,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.38.14",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.38.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.38.3",
+      "material": "B",
+      "noise_seed": 8124589671885245398,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.38.3",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.38.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.4.23",
+      "material": "B",
+      "noise_seed": 3687342351528923768,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.4.23",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.4.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-ii.8.31",
+      "material": "B",
+      "noise_seed": 8516398740880003480,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-ii.8.31",
+      "task_id": "srsd-dummy-variable-easy-feynman-ii.8.31"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-iii.12.43",
+      "material": "B",
+      "noise_seed": 3998415872654057498,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-iii.12.43",
+      "task_id": "srsd-dummy-variable-easy-feynman-iii.12.43"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-iii.15.27",
+      "material": "B",
+      "noise_seed": 932595345194806522,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-iii.15.27",
+      "task_id": "srsd-dummy-variable-easy-feynman-iii.15.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-easy-feynman-iii.7.38",
+      "material": "B",
+      "noise_seed": 6817528475833200049,
+      "output": "processed/material-B/srsd-dummy-variable-easy-feynman-iii.7.38",
+      "task_id": "srsd-dummy-variable-easy-feynman-iii.7.38"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.1",
+      "material": "B",
+      "noise_seed": 1260449022866272490,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.1",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.10",
+      "material": "B",
+      "noise_seed": 7112112688949182753,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.10",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.11",
+      "material": "B",
+      "noise_seed": 7055703814196873515,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.11",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.12",
+      "material": "B",
+      "noise_seed": 3452602273977637721,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.12",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.13",
+      "material": "B",
+      "noise_seed": 3603010342056266053,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.13",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.14",
+      "material": "B",
+      "noise_seed": 5844363367590532683,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.14",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.15",
+      "material": "B",
+      "noise_seed": 7160499566712195988,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.15",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.15"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.16",
+      "material": "B",
+      "noise_seed": 5838654683181852313,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.16",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.17",
+      "material": "B",
+      "noise_seed": 2319603464557274929,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.17",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.19",
+      "material": "B",
+      "noise_seed": 6401001468801293210,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.19",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.2",
+      "material": "B",
+      "noise_seed": 501465554353916254,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.2",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.20",
+      "material": "B",
+      "noise_seed": 6751623687504134846,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.20",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.3",
+      "material": "B",
+      "noise_seed": 5266154424218758680,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.3",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.4",
+      "material": "B",
+      "noise_seed": 1288351583341195703,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.4",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.5",
+      "material": "B",
+      "noise_seed": 5826376958813133004,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.5",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.6",
+      "material": "B",
+      "noise_seed": 7997057155245081141,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.6",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.7",
+      "material": "B",
+      "noise_seed": 8567360744355371641,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.7",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-bonus.9",
+      "material": "B",
+      "noise_seed": 4059608831944193079,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-bonus.9",
+      "task_id": "srsd-dummy-variable-hard-feynman-bonus.9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.15.3t",
+      "material": "B",
+      "noise_seed": 8572698129897343609,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.15.3t",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.15.3t"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.15.3x",
+      "material": "B",
+      "noise_seed": 9010691867170767892,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.15.3x",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.15.3x"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.29.16",
+      "material": "B",
+      "noise_seed": 5767135138084805798,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.29.16",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.29.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.30.3",
+      "material": "B",
+      "noise_seed": 700349784965193477,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.30.3",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.30.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.32.17",
+      "material": "B",
+      "noise_seed": 4528046937818683362,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.32.17",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.32.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.34.14",
+      "material": "B",
+      "noise_seed": 2556735403792673475,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.34.14",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.34.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.37.4",
+      "material": "B",
+      "noise_seed": 4547636019288650791,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.37.4",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.37.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.39.22",
+      "material": "B",
+      "noise_seed": 3421263934692338297,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.39.22",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.39.22"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.40.1",
+      "material": "B",
+      "noise_seed": 4102998039528388956,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.40.1",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.40.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.41.16",
+      "material": "B",
+      "noise_seed": 6437599743811717379,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.41.16",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.41.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.44.4",
+      "material": "B",
+      "noise_seed": 8628030484715427957,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.44.4",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.44.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.50.26",
+      "material": "B",
+      "noise_seed": 3840119781496967990,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.50.26",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.50.26"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.6.20",
+      "material": "B",
+      "noise_seed": 4363513504157704608,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.6.20",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.6.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.6.20a",
+      "material": "B",
+      "noise_seed": 3045943913576818167,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.6.20a",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.6.20a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.6.20b",
+      "material": "B",
+      "noise_seed": 1108314417331071365,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.6.20b",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.6.20b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-i.9.18",
+      "material": "B",
+      "noise_seed": 5483117268339597125,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-i.9.18",
+      "task_id": "srsd-dummy-variable-hard-feynman-i.9.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.11.17",
+      "material": "B",
+      "noise_seed": 8506754007791968246,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.11.17",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.11.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.11.20",
+      "material": "B",
+      "noise_seed": 1530856567183763117,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.11.20",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.11.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.11.27",
+      "material": "B",
+      "noise_seed": 8283370730564387705,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.11.27",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.11.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.11.28",
+      "material": "B",
+      "noise_seed": 5063461666716259965,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.11.28",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.11.28"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.13.23",
+      "material": "B",
+      "noise_seed": 2136642018261149097,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.13.23",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.13.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.13.34",
+      "material": "B",
+      "noise_seed": 222079011645337514,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.13.34",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.13.34"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.24.17",
+      "material": "B",
+      "noise_seed": 2020181178164135507,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.24.17",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.24.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.35.18",
+      "material": "B",
+      "noise_seed": 409968112037913105,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.35.18",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.35.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.35.21",
+      "material": "B",
+      "noise_seed": 1016780145924094812,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.35.21",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.35.21"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.36.38",
+      "material": "B",
+      "noise_seed": 3673019394397957336,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.36.38",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.36.38"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.6.15a",
+      "material": "B",
+      "noise_seed": 646541256230379598,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.6.15a",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.6.15a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-ii.6.15b",
+      "material": "B",
+      "noise_seed": 125177149501144473,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-ii.6.15b",
+      "task_id": "srsd-dummy-variable-hard-feynman-ii.6.15b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-iii.10.19",
+      "material": "B",
+      "noise_seed": 96191551471970301,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-iii.10.19",
+      "task_id": "srsd-dummy-variable-hard-feynman-iii.10.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-iii.21.20",
+      "material": "B",
+      "noise_seed": 5866926044642342335,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-iii.21.20",
+      "task_id": "srsd-dummy-variable-hard-feynman-iii.21.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-iii.4.33",
+      "material": "B",
+      "noise_seed": 1992996315926884922,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-iii.4.33",
+      "task_id": "srsd-dummy-variable-hard-feynman-iii.4.33"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-hard-feynman-iii.9.52",
+      "material": "B",
+      "noise_seed": 3311123262627149131,
+      "output": "processed/material-B/srsd-dummy-variable-hard-feynman-iii.9.52",
+      "task_id": "srsd-dummy-variable-hard-feynman-iii.9.52"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-bonus.18",
+      "material": "B",
+      "noise_seed": 4624251314684610132,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-bonus.18",
+      "task_id": "srsd-dummy-variable-medium-feynman-bonus.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-bonus.8",
+      "material": "B",
+      "noise_seed": 6084238088763866867,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-bonus.8",
+      "task_id": "srsd-dummy-variable-medium-feynman-bonus.8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.10.7",
+      "material": "B",
+      "noise_seed": 3059855434398464099,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.10.7",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.10.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.11.19",
+      "material": "B",
+      "noise_seed": 6709167030664195919,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.11.19",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.11.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.12.11",
+      "material": "B",
+      "noise_seed": 213001555402397336,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.12.11",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.12.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.12.2",
+      "material": "B",
+      "noise_seed": 7735556410742087648,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.12.2",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.12.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.13.12",
+      "material": "B",
+      "noise_seed": 5484194407070146962,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.13.12",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.13.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.13.4",
+      "material": "B",
+      "noise_seed": 581970687325447810,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.13.4",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.13.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.15.10",
+      "material": "B",
+      "noise_seed": 3299270578398993277,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.15.10",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.15.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.16.6",
+      "material": "B",
+      "noise_seed": 5068387552123504101,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.16.6",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.16.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.18.4",
+      "material": "B",
+      "noise_seed": 796379194892729861,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.18.4",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.18.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.24.6",
+      "material": "B",
+      "noise_seed": 3965150149889061339,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.24.6",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.24.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.29.4",
+      "material": "B",
+      "noise_seed": 8807528946312860177,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.29.4",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.29.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.32.5",
+      "material": "B",
+      "noise_seed": 6704760271967366404,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.32.5",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.32.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.34.10",
+      "material": "B",
+      "noise_seed": 8377491612153436854,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.34.10",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.34.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.34.27",
+      "material": "B",
+      "noise_seed": 5302043693045445941,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.34.27",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.34.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.34.8",
+      "material": "B",
+      "noise_seed": 9072560255401074249,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.34.8",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.34.8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.38.12",
+      "material": "B",
+      "noise_seed": 717053431774660231,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.38.12",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.38.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.39.10",
+      "material": "B",
+      "noise_seed": 3001022078569957582,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.39.10",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.39.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.39.11",
+      "material": "B",
+      "noise_seed": 3207087642625092309,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.39.11",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.39.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.43.31",
+      "material": "B",
+      "noise_seed": 881197550409428407,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.43.31",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.43.31"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.43.43",
+      "material": "B",
+      "noise_seed": 57252449480131023,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.43.43",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.43.43"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.48.2",
+      "material": "B",
+      "noise_seed": 5584534874096072480,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.48.2",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.48.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-i.8.14",
+      "material": "B",
+      "noise_seed": 813139880509145375,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-i.8.14",
+      "task_id": "srsd-dummy-variable-medium-feynman-i.8.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.11.3",
+      "material": "B",
+      "noise_seed": 8191781561586172391,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.11.3",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.11.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.21.32",
+      "material": "B",
+      "noise_seed": 1585597837353792183,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.21.32",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.21.32"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.34.2",
+      "material": "B",
+      "noise_seed": 8244389447460242519,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.34.2",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.34.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.34.29a",
+      "material": "B",
+      "noise_seed": 4863263459581683302,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.34.29a",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.34.29a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.34.2a",
+      "material": "B",
+      "noise_seed": 9187894230793607865,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.34.2a",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.34.2a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.37.1",
+      "material": "B",
+      "noise_seed": 3771522046695824011,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.37.1",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.37.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.6.11",
+      "material": "B",
+      "noise_seed": 8299132141262360000,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.6.11",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.6.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-ii.8.7",
+      "material": "B",
+      "noise_seed": 1097109149569219854,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-ii.8.7",
+      "task_id": "srsd-dummy-variable-medium-feynman-ii.8.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.13.18",
+      "material": "B",
+      "noise_seed": 2486205592274304495,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.13.18",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.13.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.14.14",
+      "material": "B",
+      "noise_seed": 5540249163016623312,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.14.14",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.14.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.15.12",
+      "material": "B",
+      "noise_seed": 6150862643529669237,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.15.12",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.15.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.15.14",
+      "material": "B",
+      "noise_seed": 2426558467130817520,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.15.14",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.15.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.17.37",
+      "material": "B",
+      "noise_seed": 8784770026635197843,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.17.37",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.17.37"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.19.51",
+      "material": "B",
+      "noise_seed": 7072661730129455827,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.19.51",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.19.51"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.4.32",
+      "material": "B",
+      "noise_seed": 8739153169328260024,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.4.32",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.4.32"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-dummy-variable-medium-feynman-iii.8.54",
+      "material": "B",
+      "noise_seed": 4674803145856426960,
+      "output": "processed/material-B/srsd-dummy-variable-medium-feynman-iii.8.54",
+      "task_id": "srsd-dummy-variable-medium-feynman-iii.8.54"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.12.1",
+      "material": "B",
+      "noise_seed": 1012239398255201872,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.12.1",
+      "task_id": "srsd-feynman-easy-feynman-i.12.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.12.4",
+      "material": "B",
+      "noise_seed": 3594518357907177473,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.12.4",
+      "task_id": "srsd-feynman-easy-feynman-i.12.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.12.5",
+      "material": "B",
+      "noise_seed": 4937824107875641935,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.12.5",
+      "task_id": "srsd-feynman-easy-feynman-i.12.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.14.3",
+      "material": "B",
+      "noise_seed": 2460734914753274734,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.14.3",
+      "task_id": "srsd-feynman-easy-feynman-i.14.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.14.4",
+      "material": "B",
+      "noise_seed": 4697979642528014353,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.14.4",
+      "task_id": "srsd-feynman-easy-feynman-i.14.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.18.12",
+      "material": "B",
+      "noise_seed": 8264364886178827437,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.18.12",
+      "task_id": "srsd-feynman-easy-feynman-i.18.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.18.16",
+      "material": "B",
+      "noise_seed": 9023226455818586814,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.18.16",
+      "task_id": "srsd-feynman-easy-feynman-i.18.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.25.13",
+      "material": "B",
+      "noise_seed": 5263329853673731198,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.25.13",
+      "task_id": "srsd-feynman-easy-feynman-i.25.13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.26.2",
+      "material": "B",
+      "noise_seed": 2263966355764340192,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.26.2",
+      "task_id": "srsd-feynman-easy-feynman-i.26.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.27.6",
+      "material": "B",
+      "noise_seed": 636558327494008388,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.27.6",
+      "task_id": "srsd-feynman-easy-feynman-i.27.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.30.5",
+      "material": "B",
+      "noise_seed": 2428840364026724337,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.30.5",
+      "task_id": "srsd-feynman-easy-feynman-i.30.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.43.16",
+      "material": "B",
+      "noise_seed": 2580298544958848340,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.43.16",
+      "task_id": "srsd-feynman-easy-feynman-i.43.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-i.47.23",
+      "material": "B",
+      "noise_seed": 6280065425162601113,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-i.47.23",
+      "task_id": "srsd-feynman-easy-feynman-i.47.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.10.9",
+      "material": "B",
+      "noise_seed": 3604539616774812037,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.10.9",
+      "task_id": "srsd-feynman-easy-feynman-ii.10.9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.13.17",
+      "material": "B",
+      "noise_seed": 9038599060611054442,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.13.17",
+      "task_id": "srsd-feynman-easy-feynman-ii.13.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.15.4",
+      "material": "B",
+      "noise_seed": 6716977636483756199,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.15.4",
+      "task_id": "srsd-feynman-easy-feynman-ii.15.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.15.5",
+      "material": "B",
+      "noise_seed": 3218469468321631550,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.15.5",
+      "task_id": "srsd-feynman-easy-feynman-ii.15.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.2.42",
+      "material": "B",
+      "noise_seed": 823739446955588955,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.2.42",
+      "task_id": "srsd-feynman-easy-feynman-ii.2.42"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.27.16",
+      "material": "B",
+      "noise_seed": 941475105165668197,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.27.16",
+      "task_id": "srsd-feynman-easy-feynman-ii.27.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.27.18",
+      "material": "B",
+      "noise_seed": 7127792362038931184,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.27.18",
+      "task_id": "srsd-feynman-easy-feynman-ii.27.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.3.24",
+      "material": "B",
+      "noise_seed": 5123457382550798548,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.3.24",
+      "task_id": "srsd-feynman-easy-feynman-ii.3.24"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.34.11",
+      "material": "B",
+      "noise_seed": 4549925575449323905,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.34.11",
+      "task_id": "srsd-feynman-easy-feynman-ii.34.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.34.29b",
+      "material": "B",
+      "noise_seed": 5456612242614305167,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.34.29b",
+      "task_id": "srsd-feynman-easy-feynman-ii.34.29b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.38.14",
+      "material": "B",
+      "noise_seed": 1883457425962519140,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.38.14",
+      "task_id": "srsd-feynman-easy-feynman-ii.38.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.38.3",
+      "material": "B",
+      "noise_seed": 7811005168122145789,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.38.3",
+      "task_id": "srsd-feynman-easy-feynman-ii.38.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.4.23",
+      "material": "B",
+      "noise_seed": 3729609679655959994,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.4.23",
+      "task_id": "srsd-feynman-easy-feynman-ii.4.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-ii.8.31",
+      "material": "B",
+      "noise_seed": 3538598423715585946,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-ii.8.31",
+      "task_id": "srsd-feynman-easy-feynman-ii.8.31"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-iii.12.43",
+      "material": "B",
+      "noise_seed": 8652252869767735281,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-iii.12.43",
+      "task_id": "srsd-feynman-easy-feynman-iii.12.43"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-iii.15.27",
+      "material": "B",
+      "noise_seed": 694961564242958024,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-iii.15.27",
+      "task_id": "srsd-feynman-easy-feynman-iii.15.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-easy-feynman-iii.7.38",
+      "material": "B",
+      "noise_seed": 2354853909170832737,
+      "output": "processed/material-B/srsd-feynman-easy-feynman-iii.7.38",
+      "task_id": "srsd-feynman-easy-feynman-iii.7.38"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.1",
+      "material": "B",
+      "noise_seed": 7886785555674851882,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.1",
+      "task_id": "srsd-feynman-hard-feynman-bonus.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.10",
+      "material": "B",
+      "noise_seed": 1815976398496835363,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.10",
+      "task_id": "srsd-feynman-hard-feynman-bonus.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.11",
+      "material": "B",
+      "noise_seed": 8302641928560864184,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.11",
+      "task_id": "srsd-feynman-hard-feynman-bonus.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.12",
+      "material": "B",
+      "noise_seed": 5527786489952642561,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.12",
+      "task_id": "srsd-feynman-hard-feynman-bonus.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.13",
+      "material": "B",
+      "noise_seed": 3056247450890088575,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.13",
+      "task_id": "srsd-feynman-hard-feynman-bonus.13"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.14",
+      "material": "B",
+      "noise_seed": 1489339705288214743,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.14",
+      "task_id": "srsd-feynman-hard-feynman-bonus.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.15",
+      "material": "B",
+      "noise_seed": 2958514751482241832,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.15",
+      "task_id": "srsd-feynman-hard-feynman-bonus.15"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.16",
+      "material": "B",
+      "noise_seed": 4956349995544712756,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.16",
+      "task_id": "srsd-feynman-hard-feynman-bonus.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.17",
+      "material": "B",
+      "noise_seed": 2681410708855326550,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.17",
+      "task_id": "srsd-feynman-hard-feynman-bonus.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.19",
+      "material": "B",
+      "noise_seed": 3196227320250522580,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.19",
+      "task_id": "srsd-feynman-hard-feynman-bonus.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.2",
+      "material": "B",
+      "noise_seed": 5026552821799659963,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.2",
+      "task_id": "srsd-feynman-hard-feynman-bonus.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.20",
+      "material": "B",
+      "noise_seed": 9172514027461388393,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.20",
+      "task_id": "srsd-feynman-hard-feynman-bonus.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.3",
+      "material": "B",
+      "noise_seed": 8993486383450230732,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.3",
+      "task_id": "srsd-feynman-hard-feynman-bonus.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.4",
+      "material": "B",
+      "noise_seed": 3463208226641799386,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.4",
+      "task_id": "srsd-feynman-hard-feynman-bonus.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.5",
+      "material": "B",
+      "noise_seed": 7130916538109397739,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.5",
+      "task_id": "srsd-feynman-hard-feynman-bonus.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.6",
+      "material": "B",
+      "noise_seed": 2331384928193962577,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.6",
+      "task_id": "srsd-feynman-hard-feynman-bonus.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.7",
+      "material": "B",
+      "noise_seed": 1843000508195251674,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.7",
+      "task_id": "srsd-feynman-hard-feynman-bonus.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-bonus.9",
+      "material": "B",
+      "noise_seed": 2222531984110546481,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-bonus.9",
+      "task_id": "srsd-feynman-hard-feynman-bonus.9"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.15.3t",
+      "material": "B",
+      "noise_seed": 4288698628357167576,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.15.3t",
+      "task_id": "srsd-feynman-hard-feynman-i.15.3t"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.15.3x",
+      "material": "B",
+      "noise_seed": 3888929987501606065,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.15.3x",
+      "task_id": "srsd-feynman-hard-feynman-i.15.3x"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.29.16",
+      "material": "B",
+      "noise_seed": 7738773442631388977,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.29.16",
+      "task_id": "srsd-feynman-hard-feynman-i.29.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.30.3",
+      "material": "B",
+      "noise_seed": 1590770254733598916,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.30.3",
+      "task_id": "srsd-feynman-hard-feynman-i.30.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.32.17",
+      "material": "B",
+      "noise_seed": 5324256581671809678,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.32.17",
+      "task_id": "srsd-feynman-hard-feynman-i.32.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.34.14",
+      "material": "B",
+      "noise_seed": 3924316626151709618,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.34.14",
+      "task_id": "srsd-feynman-hard-feynman-i.34.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.37.4",
+      "material": "B",
+      "noise_seed": 1039651734283935707,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.37.4",
+      "task_id": "srsd-feynman-hard-feynman-i.37.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.39.22",
+      "material": "B",
+      "noise_seed": 5706231773623388198,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.39.22",
+      "task_id": "srsd-feynman-hard-feynman-i.39.22"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.40.1",
+      "material": "B",
+      "noise_seed": 4114876811734223535,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.40.1",
+      "task_id": "srsd-feynman-hard-feynman-i.40.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.41.16",
+      "material": "B",
+      "noise_seed": 483714862780673450,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.41.16",
+      "task_id": "srsd-feynman-hard-feynman-i.41.16"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.44.4",
+      "material": "B",
+      "noise_seed": 4453881797062187093,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.44.4",
+      "task_id": "srsd-feynman-hard-feynman-i.44.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.50.26",
+      "material": "B",
+      "noise_seed": 4192734169878853024,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.50.26",
+      "task_id": "srsd-feynman-hard-feynman-i.50.26"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.6.20",
+      "material": "B",
+      "noise_seed": 339974883397477240,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.6.20",
+      "task_id": "srsd-feynman-hard-feynman-i.6.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.6.20a",
+      "material": "B",
+      "noise_seed": 5233576138028354967,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.6.20a",
+      "task_id": "srsd-feynman-hard-feynman-i.6.20a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.6.20b",
+      "material": "B",
+      "noise_seed": 3113904090809077833,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.6.20b",
+      "task_id": "srsd-feynman-hard-feynman-i.6.20b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-i.9.18",
+      "material": "B",
+      "noise_seed": 5017393341122843978,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-i.9.18",
+      "task_id": "srsd-feynman-hard-feynman-i.9.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.11.17",
+      "material": "B",
+      "noise_seed": 5029968208372188209,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.11.17",
+      "task_id": "srsd-feynman-hard-feynman-ii.11.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.11.20",
+      "material": "B",
+      "noise_seed": 1682089011862876207,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.11.20",
+      "task_id": "srsd-feynman-hard-feynman-ii.11.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.11.27",
+      "material": "B",
+      "noise_seed": 1403517600144989914,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.11.27",
+      "task_id": "srsd-feynman-hard-feynman-ii.11.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.11.28",
+      "material": "B",
+      "noise_seed": 2314318906449148000,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.11.28",
+      "task_id": "srsd-feynman-hard-feynman-ii.11.28"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.13.23",
+      "material": "B",
+      "noise_seed": 6522071493328944270,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.13.23",
+      "task_id": "srsd-feynman-hard-feynman-ii.13.23"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.13.34",
+      "material": "B",
+      "noise_seed": 5470901135418566802,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.13.34",
+      "task_id": "srsd-feynman-hard-feynman-ii.13.34"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.24.17",
+      "material": "B",
+      "noise_seed": 2962461358986088958,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.24.17",
+      "task_id": "srsd-feynman-hard-feynman-ii.24.17"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.35.18",
+      "material": "B",
+      "noise_seed": 437145413640071568,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.35.18",
+      "task_id": "srsd-feynman-hard-feynman-ii.35.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.35.21",
+      "material": "B",
+      "noise_seed": 6834439340608467177,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.35.21",
+      "task_id": "srsd-feynman-hard-feynman-ii.35.21"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.36.38",
+      "material": "B",
+      "noise_seed": 2232023645609961833,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.36.38",
+      "task_id": "srsd-feynman-hard-feynman-ii.36.38"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.6.15a",
+      "material": "B",
+      "noise_seed": 7534540838709653876,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.6.15a",
+      "task_id": "srsd-feynman-hard-feynman-ii.6.15a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-ii.6.15b",
+      "material": "B",
+      "noise_seed": 8529170074779149500,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-ii.6.15b",
+      "task_id": "srsd-feynman-hard-feynman-ii.6.15b"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-iii.10.19",
+      "material": "B",
+      "noise_seed": 9129259451090870183,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-iii.10.19",
+      "task_id": "srsd-feynman-hard-feynman-iii.10.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-iii.21.20",
+      "material": "B",
+      "noise_seed": 6081371246009083421,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-iii.21.20",
+      "task_id": "srsd-feynman-hard-feynman-iii.21.20"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-iii.4.33",
+      "material": "B",
+      "noise_seed": 6826981408022281232,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-iii.4.33",
+      "task_id": "srsd-feynman-hard-feynman-iii.4.33"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-hard-feynman-iii.9.52",
+      "material": "B",
+      "noise_seed": 1060698785396782298,
+      "output": "processed/material-B/srsd-feynman-hard-feynman-iii.9.52",
+      "task_id": "srsd-feynman-hard-feynman-iii.9.52"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-bonus.18",
+      "material": "B",
+      "noise_seed": 2743504513029810131,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-bonus.18",
+      "task_id": "srsd-feynman-medium-feynman-bonus.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-bonus.8",
+      "material": "B",
+      "noise_seed": 2257793286381373938,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-bonus.8",
+      "task_id": "srsd-feynman-medium-feynman-bonus.8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.10.7",
+      "material": "B",
+      "noise_seed": 4388701831523015262,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.10.7",
+      "task_id": "srsd-feynman-medium-feynman-i.10.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.11.19",
+      "material": "B",
+      "noise_seed": 6283571293821574869,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.11.19",
+      "task_id": "srsd-feynman-medium-feynman-i.11.19"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.12.11",
+      "material": "B",
+      "noise_seed": 7803617362520537899,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.12.11",
+      "task_id": "srsd-feynman-medium-feynman-i.12.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.12.2",
+      "material": "B",
+      "noise_seed": 757783896326620681,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.12.2",
+      "task_id": "srsd-feynman-medium-feynman-i.12.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.13.12",
+      "material": "B",
+      "noise_seed": 139993433305704576,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.13.12",
+      "task_id": "srsd-feynman-medium-feynman-i.13.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.13.4",
+      "material": "B",
+      "noise_seed": 4520891942031242557,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.13.4",
+      "task_id": "srsd-feynman-medium-feynman-i.13.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.15.10",
+      "material": "B",
+      "noise_seed": 5163248727587611755,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.15.10",
+      "task_id": "srsd-feynman-medium-feynman-i.15.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.16.6",
+      "material": "B",
+      "noise_seed": 958856188881655044,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.16.6",
+      "task_id": "srsd-feynman-medium-feynman-i.16.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.18.4",
+      "material": "B",
+      "noise_seed": 3209382246432229780,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.18.4",
+      "task_id": "srsd-feynman-medium-feynman-i.18.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.24.6",
+      "material": "B",
+      "noise_seed": 8374146479525745781,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.24.6",
+      "task_id": "srsd-feynman-medium-feynman-i.24.6"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.29.4",
+      "material": "B",
+      "noise_seed": 755027345274349974,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.29.4",
+      "task_id": "srsd-feynman-medium-feynman-i.29.4"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.32.5",
+      "material": "B",
+      "noise_seed": 5631314193566881336,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.32.5",
+      "task_id": "srsd-feynman-medium-feynman-i.32.5"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.34.10",
+      "material": "B",
+      "noise_seed": 6866761622900490101,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.34.10",
+      "task_id": "srsd-feynman-medium-feynman-i.34.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.34.27",
+      "material": "B",
+      "noise_seed": 3320761589584727273,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.34.27",
+      "task_id": "srsd-feynman-medium-feynman-i.34.27"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.34.8",
+      "material": "B",
+      "noise_seed": 6202357576997941381,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.34.8",
+      "task_id": "srsd-feynman-medium-feynman-i.34.8"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.38.12",
+      "material": "B",
+      "noise_seed": 7828220618359769549,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.38.12",
+      "task_id": "srsd-feynman-medium-feynman-i.38.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.39.10",
+      "material": "B",
+      "noise_seed": 1022491187978337573,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.39.10",
+      "task_id": "srsd-feynman-medium-feynman-i.39.10"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.39.11",
+      "material": "B",
+      "noise_seed": 8190024216080670333,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.39.11",
+      "task_id": "srsd-feynman-medium-feynman-i.39.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.43.31",
+      "material": "B",
+      "noise_seed": 6583278115397990041,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.43.31",
+      "task_id": "srsd-feynman-medium-feynman-i.43.31"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.43.43",
+      "material": "B",
+      "noise_seed": 7345543824322170527,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.43.43",
+      "task_id": "srsd-feynman-medium-feynman-i.43.43"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.48.2",
+      "material": "B",
+      "noise_seed": 7990142288258810595,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.48.2",
+      "task_id": "srsd-feynman-medium-feynman-i.48.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-i.8.14",
+      "material": "B",
+      "noise_seed": 5305302670554415832,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-i.8.14",
+      "task_id": "srsd-feynman-medium-feynman-i.8.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.11.3",
+      "material": "B",
+      "noise_seed": 7732215336996829153,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.11.3",
+      "task_id": "srsd-feynman-medium-feynman-ii.11.3"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.21.32",
+      "material": "B",
+      "noise_seed": 1198145114515743487,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.21.32",
+      "task_id": "srsd-feynman-medium-feynman-ii.21.32"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.34.2",
+      "material": "B",
+      "noise_seed": 7387500159181628573,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.34.2",
+      "task_id": "srsd-feynman-medium-feynman-ii.34.2"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.34.29a",
+      "material": "B",
+      "noise_seed": 8941758269371270104,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.34.29a",
+      "task_id": "srsd-feynman-medium-feynman-ii.34.29a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.34.2a",
+      "material": "B",
+      "noise_seed": 8842108191432797624,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.34.2a",
+      "task_id": "srsd-feynman-medium-feynman-ii.34.2a"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.37.1",
+      "material": "B",
+      "noise_seed": 2738963649389011915,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.37.1",
+      "task_id": "srsd-feynman-medium-feynman-ii.37.1"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.6.11",
+      "material": "B",
+      "noise_seed": 6416352312245319147,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.6.11",
+      "task_id": "srsd-feynman-medium-feynman-ii.6.11"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-ii.8.7",
+      "material": "B",
+      "noise_seed": 5621863829062170169,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-ii.8.7",
+      "task_id": "srsd-feynman-medium-feynman-ii.8.7"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.13.18",
+      "material": "B",
+      "noise_seed": 903013562415644495,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.13.18",
+      "task_id": "srsd-feynman-medium-feynman-iii.13.18"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.14.14",
+      "material": "B",
+      "noise_seed": 1076747421004200122,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.14.14",
+      "task_id": "srsd-feynman-medium-feynman-iii.14.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.15.12",
+      "material": "B",
+      "noise_seed": 5726835727028444204,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.15.12",
+      "task_id": "srsd-feynman-medium-feynman-iii.15.12"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.15.14",
+      "material": "B",
+      "noise_seed": 303827623041140370,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.15.14",
+      "task_id": "srsd-feynman-medium-feynman-iii.15.14"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.17.37",
+      "material": "B",
+      "noise_seed": 3489817985897891355,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.17.37",
+      "task_id": "srsd-feynman-medium-feynman-iii.17.37"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.19.51",
+      "material": "B",
+      "noise_seed": 9027690152463757638,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.19.51",
+      "task_id": "srsd-feynman-medium-feynman-iii.19.51"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.4.32",
+      "material": "B",
+      "noise_seed": 1949592843458115818,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.4.32",
+      "task_id": "srsd-feynman-medium-feynman-iii.4.32"
+    },
+    {
+      "ground_truth_available": true,
+      "input": "normalized_inputs/material-B/srsd-feynman-medium-feynman-iii.8.54",
+      "material": "B",
+      "noise_seed": 3215228514898374715,
+      "output": "processed/material-B/srsd-feynman-medium-feynman-iii.8.54",
+      "task_id": "srsd-feynman-medium-feynman-iii.8.54"
+    }
+  ]
+}

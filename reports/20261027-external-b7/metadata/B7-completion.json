@@ -1,0 +1,8 @@
+{
+  "job_id": "36320",
+  "audit_summary_sha256": "fb7fcae077b28070d6d1d70c21da407c046461a68766bf50cc26d56425dea54c",
+  "fit_count": 221400,
+  "ode_count": 37800,
+  "completed_at": 1793043656.739258,
+  "formal_comparison_ready": false
+}

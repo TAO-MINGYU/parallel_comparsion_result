@@ -1,0 +1,15 @@
+{
+  "applicability_amendment": "native-scope-extension-20261027-v1",
+  "baseline": "${CONTINUATION_ROOT}",
+  "baseline_records_sha256": "3647665b5b092323530cc765591e99909301173ebc554b2bacb9599c0a0b7429",
+  "bundles": "${RUNTIME_BUNDLES}",
+  "index_sha256": "4272130658e2869c8c9b099f011c91cc2158b63e360570013f1fc42f03381730",
+  "node": "carbon",
+  "original": "${B7_ROOT}",
+  "requests_sha256": "fe5657df7893388dde7e1adf6bc8d7999f6e3f0ea9356d66cd617fc48e93d57d",
+  "resource_epoch": "carbon-128-physical-native-scope-extension-20261027",
+  "root": "${EXTENSION_ROOT}",
+  "source_manifest_sha256": "6fd078ed364b3c618af66dd1af3b64369ccdd041dd4295f342cd43b5f6581018",
+  "supervisor_python": "${SUPERVISOR_PYTHON}",
+  "workers": 128
+}

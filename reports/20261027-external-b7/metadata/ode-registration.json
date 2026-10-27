@@ -1,0 +1,337 @@
+{
+  "run_id": "20260926-external-ode-extension-v1",
+  "phase": "formal_external_ode_extension_registration",
+  "formal_claim": false,
+  "my_sr_included": false,
+  "methods": [
+    "pysr",
+    "operon",
+    "dsr",
+    "ai_feynman_2",
+    "gplearn",
+    "tf4sr"
+  ],
+  "condition_count": 5,
+  "system_count": 63,
+  "workunit_count": 30,
+  "run_count": 37800,
+  "resource_tracks": [
+    "constrained_resource",
+    "capability_ceiling"
+  ],
+  "formal_search_seeds": [
+    23654,
+    15795,
+    860,
+    5390,
+    16850,
+    29910,
+    4426,
+    21962,
+    14423,
+    28020
+  ],
+  "adapter_policy": "All six external ODE adapters are pending validation; held arrays must not be counted as solver results.",
+  "workunits": [
+    {
+      "workunit_id": "pysr:ode:noiseless_nodrop",
+      "method_id": "pysr",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "pysr:ode:noise01_nodrop",
+      "method_id": "pysr",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "pysr:ode:noise05_nodrop",
+      "method_id": "pysr",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "pysr:ode:noise10_nodrop",
+      "method_id": "pysr",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "pysr:ode:noise05_drop50",
+      "method_id": "pysr",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "operon:ode:noiseless_nodrop",
+      "method_id": "operon",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "operon:ode:noise01_nodrop",
+      "method_id": "operon",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "operon:ode:noise05_nodrop",
+      "method_id": "operon",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "operon:ode:noise10_nodrop",
+      "method_id": "operon",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "operon:ode:noise05_drop50",
+      "method_id": "operon",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "dsr:ode:noiseless_nodrop",
+      "method_id": "dsr",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "dsr:ode:noise01_nodrop",
+      "method_id": "dsr",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "dsr:ode:noise05_nodrop",
+      "method_id": "dsr",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "dsr:ode:noise10_nodrop",
+      "method_id": "dsr",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "dsr:ode:noise05_drop50",
+      "method_id": "dsr",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "ai_feynman_2:ode:noiseless_nodrop",
+      "method_id": "ai_feynman_2",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "ai_feynman_2:ode:noise01_nodrop",
+      "method_id": "ai_feynman_2",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "ai_feynman_2:ode:noise05_nodrop",
+      "method_id": "ai_feynman_2",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "ai_feynman_2:ode:noise10_nodrop",
+      "method_id": "ai_feynman_2",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "ai_feynman_2:ode:noise05_drop50",
+      "method_id": "ai_feynman_2",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "gplearn:ode:noiseless_nodrop",
+      "method_id": "gplearn",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "gplearn:ode:noise01_nodrop",
+      "method_id": "gplearn",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "gplearn:ode:noise05_nodrop",
+      "method_id": "gplearn",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "gplearn:ode:noise10_nodrop",
+      "method_id": "gplearn",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "gplearn:ode:noise05_drop50",
+      "method_id": "gplearn",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "tf4sr:ode:noiseless_nodrop",
+      "method_id": "tf4sr",
+      "condition": "noiseless_nodrop",
+      "file": "raw/odebench/odebench_noiseless_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "tf4sr:ode:noise01_nodrop",
+      "method_id": "tf4sr",
+      "condition": "noise01_nodrop",
+      "file": "raw/odebench/odebench_noise01_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "tf4sr:ode:noise05_nodrop",
+      "method_id": "tf4sr",
+      "condition": "noise05_nodrop",
+      "file": "raw/odebench/odebench_noise05_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "tf4sr:ode:noise10_nodrop",
+      "method_id": "tf4sr",
+      "condition": "noise10_nodrop",
+      "file": "raw/odebench/odebench_noise10_nodrop_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    },
+    {
+      "workunit_id": "tf4sr:ode:noise05_drop50",
+      "method_id": "tf4sr",
+      "condition": "noise05_drop50",
+      "file": "raw/odebench/odebench_noise05_drop50_150pts.json",
+      "system_count": 63,
+      "resource_track_count": 2,
+      "search_seed_count": 10,
+      "run_count": 1260
+    }
+  ]
+}

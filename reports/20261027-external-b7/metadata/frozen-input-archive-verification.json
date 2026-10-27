@@ -1,0 +1,11 @@
+{
+  "archive": "b7-frozen-inputs-20261027.tar.gz",
+  "bytes": 716352175,
+  "sha256": "e95f39de9530bdeca64aef411fc0c208de508d9615da7ebdd56a4e7f5192abfe",
+  "verified_members": 5540,
+  "csv_files": 5535,
+  "data_cases": 1845,
+  "every_source_csv_matches_frozen_request": true,
+  "every_archived_member_independently_read_back": true,
+  "original_files_modified_or_deleted": false
+}

@@ -1,0 +1,16 @@
+{
+  "method": "operon",
+  "python_package": "pyoperon0.6.1",
+  "native_revision_reported": "5a1c937",
+  "native_scalar_dtype_observed": "float32",
+  "build_description": "Release Linux-6.14.0-1017-azure x86_64; timestamp2026-03-01T11:14:28Z; single-precision; Eigen3.4.0; Ceres n/a; taskflow3.9.0; Clang20.1.8; -O3 -march=x86-64-v3",
+  "probe": "Version() and a two-row Dataset.Values dtype; no solver fit or optimization",
+  "binary_sha256": {
+    "lib/python3.11/site-packages/pyoperon/pyoperon.cpython-311-x86_64-linux-gnu.so": "7707f7ff9edccd8d36c6d14199bba94eb2e4f7393dbd8637f7a32384d6f7eb4b",
+    "lib/python3.1/site-packages/pyoperon/pyoperon.cpython-311-x86_64-linux-gnu.so": "7707f7ff9edccd8d36c6d14199bba94eb2e4f7393dbd8637f7a32384d6f7eb4b"
+  },
+  "upstream_checkout_is_distinct_from_installed_native_revision": true,
+  "native_revision_full": "5a1c93769ca89a34c9a4fdc8948eecb413ae1f15",
+  "native_revision_permalink": "https://github.com/heal-research/operon/commit/5a1c93769ca89a34c9a4fdc8948eecb413ae1f15",
+  "native_revision_verified_via_upstream_api": true
+}

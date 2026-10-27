@@ -1,0 +1,6 @@
+{
+  "actual_executed_collector_sha256": "e6e7431841a45dc2d427b6cf49adb6173d3325176f824f2218ed3492d7bdb626",
+  "published_portable_collector_sha256": "5ff365ad0267ceda7bf2d830c2f64f40009dd3ef9cce86fc0aa131e6de325817",
+  "changes": "Expose runtime-cache parameter and derive default UID instead of a machine-local UID literal; the actual UID1011 mapping is unchanged; no scientific field or result selection changed.",
+  "original_executed_source_preserved_locally": true
+}

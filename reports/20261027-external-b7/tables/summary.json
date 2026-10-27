@@ -1,0 +1,147 @@
+{
+  "records": 221400,
+  "statuses": {
+    "search_timeout": 139988,
+    "success": 64800,
+    "invalid_output": 7732,
+    "not_applicable": 8880
+  },
+  "resource_epochs": {
+    "carbon-128-physical-single-thread-common-compute-v2": 195102,
+    "carbon-374-logical-smt-single-thread-continuation-20261026": 14198,
+    "carbon-128-physical-native-scope-extension-20261027": 12100
+  },
+  "paired_scalar_cases": 36900,
+  "common_all_six_applicable_scalar_cases": 28020,
+  "complete_ode_system_records": 37800,
+  "common_all_six_applicable_ode_system_cases": 4300,
+  "future_mysr_template_requests_by_hardware_condition": {
+    "carbon_128_physical": 35904,
+    "carbon_374_logical_SMT": 2650
+  },
+  "future_mysr_templates_are_not_executed_results": true,
+  "observed_usable_by_status": [
+    {
+      "status": "invalid_output",
+      "usable": false,
+      "records": 7732
+    },
+    {
+      "status": "not_applicable",
+      "usable": false,
+      "records": 8880
+    },
+    {
+      "status": "search_timeout",
+      "usable": false,
+      "records": 1910
+    },
+    {
+      "status": "search_timeout",
+      "usable": true,
+      "records": 138078
+    },
+    {
+      "status": "success",
+      "usable": true,
+      "records": 64800
+    }
+  ],
+  "evaluation_semantics": [
+    {
+      "method": "ai_feynman_2",
+      "raw_semantics": "no_native_evaluation_cap_wall_and_rss_limited",
+      "raw_count_is_zero": false,
+      "records": 80
+    },
+    {
+      "method": "ai_feynman_2",
+      "raw_semantics": "not_exposed",
+      "raw_count_is_zero": false,
+      "records": 36734
+    },
+    {
+      "method": "ai_feynman_2",
+      "raw_semantics": "not_observed",
+      "raw_count_is_zero": false,
+      "records": 86
+    },
+    {
+      "method": "dsr",
+      "raw_semantics": "native_sampled_programs",
+      "raw_count_is_zero": false,
+      "records": 1379
+    },
+    {
+      "method": "dsr",
+      "raw_semantics": "native_sampled_programs_at_last_checkpoint",
+      "raw_count_is_zero": false,
+      "records": 35520
+    },
+    {
+      "method": "dsr",
+      "raw_semantics": "not_observed",
+      "raw_count_is_zero": false,
+      "records": 1
+    },
+    {
+      "method": "gplearn",
+      "raw_semantics": "generated_programs_at_last_completed_generation",
+      "raw_count_is_zero": false,
+      "records": 36900
+    },
+    {
+      "method": "operon",
+      "raw_semantics": "native_fitness_calls",
+      "raw_count_is_zero": true,
+      "records": 36893
+    },
+    {
+      "method": "operon",
+      "raw_semantics": "native_fitness_count_not_exposed_at_checkpoint",
+      "raw_count_is_zero": false,
+      "records": 7
+    },
+    {
+      "method": "pysr",
+      "raw_semantics": "native_calls_not_cross_method_budgeted",
+      "raw_count_is_zero": false,
+      "records": 6160
+    },
+    {
+      "method": "pysr",
+      "raw_semantics": "native_max_evals_enforced_actual_count_not_exposed",
+      "raw_count_is_zero": false,
+      "records": 30737
+    },
+    {
+      "method": "pysr",
+      "raw_semantics": "not_observed",
+      "raw_count_is_zero": false,
+      "records": 3
+    },
+    {
+      "method": "tf4sr",
+      "raw_semantics": "not_observed",
+      "raw_count_is_zero": false,
+      "records": 22
+    },
+    {
+      "method": "tf4sr",
+      "raw_semantics": "not_observed",
+      "raw_count_is_zero": true,
+      "records": 8880
+    },
+    {
+      "method": "tf4sr",
+      "raw_semantics": "one_greedy_decode_plus_train_only_constant_fit",
+      "raw_count_is_zero": false,
+      "records": 27998
+    }
+  ],
+  "canonical_input_stream_sha256": "e40582dbb4e711e873a5f08c4fe73a7ec052d84b3a4f302b51ec7f8b5fa5e7c7",
+  "primary_target_rule": "Clean latent target for ground-truth tabular tasks; observed unchanged target for black-box; clean held-out derivative forODE. Invalid/no-model outcomes contribute zero to threshold attainment over applicable denominators.",
+  "denominator_rule": "All registered applicable fits; common-applicability tables use the exact same28020 scalar cases for every method. NA coverage reported separately. ODE systems require every component.",
+  "formal_comparison_ready": false,
+  "mysr_results_present": false
+}

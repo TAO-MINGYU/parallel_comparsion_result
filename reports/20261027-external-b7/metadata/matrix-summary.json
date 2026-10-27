@@ -1,0 +1,58 @@
+{
+  "by_kind_method": {
+    "ode:ai_feynman_2": 11700,
+    "ode:dsr": 11700,
+    "ode:gplearn": 11700,
+    "ode:operon": 11700,
+    "ode:pysr": 11700,
+    "ode:tf4sr": 11700,
+    "tabular:ai_feynman_2": 25200,
+    "tabular:dsr": 25200,
+    "tabular:gplearn": 25200,
+    "tabular:operon": 25200,
+    "tabular:pysr": 25200,
+    "tabular:tf4sr": 25200
+  },
+  "data_cases": 1845,
+  "fair_mysr_contract_frozen": true,
+  "index_sha256": "a99c151133b1ad1cd2ca50ffffe0523712bff4a0945018b746e87479806a11d5",
+  "methods": [
+    "pysr",
+    "operon",
+    "dsr",
+    "ai_feynman_2",
+    "gplearn",
+    "tf4sr"
+  ],
+  "mysr_execution_included": false,
+  "native_fits": 221400,
+  "ode_component_fits": 70200,
+  "ode_conditions": 5,
+  "ode_systems": 63,
+  "previous_results_reused": false,
+  "protocol_sha256": "7d1b2edc2cb7efd738ee76636c781789c98ebc3a7490269c2ae5ccfdd91fbb2b",
+  "requests_sha256": "094891ac33f2824a67bd757ee338dff95caa1aa2c68e4ef3a796e6e0f36c4591",
+  "seeds": [
+    23654,
+    15795,
+    860,
+    5390,
+    16850,
+    29910,
+    4426,
+    21962,
+    14423,
+    28020
+  ],
+  "source_archive": "${CORPUS_ROOT}",
+  "system_level_ode_slots": 37800,
+  "tabular_fits": 151200,
+  "tabular_tasks": 315,
+  "top_level_slots": 189000,
+  "variants": [
+    "clean",
+    "output_noise_01",
+    "output_noise_05",
+    "output_noise_10"
+  ]
+}

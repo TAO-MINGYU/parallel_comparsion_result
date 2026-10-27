@@ -1,0 +1,24 @@
+{
+  "architecture": "x86_64",
+  "cpu_model": "AMD EPYC9754 128-Core Processor",
+  "sockets": 2,
+  "cores_per_socket": 128,
+  "hardware_threads_per_core": 2,
+  "physical_cores": 256,
+  "logical_cpus": 512,
+  "memory_total_bytes": 1216921931776,
+  "gpu_used": false,
+  "worker_affinity": "one logical CPU per fit; original/extension physical-core pools and SMT continuation are distinct conditions",
+  "job_memory_limit": null,
+  "job_time_limit": null,
+  "search_budgets_seconds": [
+    120,
+    900
+  ],
+  "measured_process_rss": "process-tree sampling, not node reservation",
+  "runtime_job_ids": [
+    "35055",
+    "36320",
+    "36559"
+  ]
+}

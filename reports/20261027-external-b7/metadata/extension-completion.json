@@ -1,0 +1,9 @@
+{
+  "audit_summary_sha256": "8fbe2939afa62dce4096732f78a13fcaa95ffc8ae7016fdafa01b73ce3eafcb1",
+  "combined_records": 221400,
+  "combined_summary_sha256": "0e667c4670f01142bd695d62393222c5753ef36b6fd317ee61068d18886d6512",
+  "completed_at": 1793095857.1020515,
+  "extension_records": 12100,
+  "formal_comparison_ready": false,
+  "job_id": "36559"
+}

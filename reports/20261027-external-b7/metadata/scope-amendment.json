@@ -1,0 +1,33 @@
+{
+  "analysis_policy": "Use each scheduled extension outcome, including failures, for its former NA slot; never select the better test result across attempts. Keep original B7 as a separate immutable protocol. Report unsupported coverage separately.",
+  "authority": "User2026-10-27: run previously not-applicable cases if they can run",
+  "changes": "Remove dataset-family/known-equation registration gates only",
+  "formal_comparison_ready": false,
+  "id": "native-scope-extension-20261027-v1",
+  "no_mysr_execution": true,
+  "patches": {
+    "runner.py": {
+      "amended_sha256": "0ef8308f35d0310583c49ab48e8dc8355c318781640c38b139312092f6c43d9a",
+      "original_sha256": "925b71528e8496252877c7b6933d59c5c7763212865311d6e70cdb279a95e782"
+    },
+    "solvers.py": {
+      "amended_sha256": "666db5c3d65e45e69a832f5dfe44ed9a9f95001bc8e9b84b4aa5be6174cbab2f",
+      "original_sha256": "4d2e0472e6d9461152d0c9efc4b017350d8356dcb570bc2371f78bdea9e5ad2f"
+    },
+    "worker.py": {
+      "amended_sha256": "897d049df1c39a6102fb558a2df9d3dd7ecaca4f9acca62622f76c572a4c3fbc",
+      "original_sha256": "5e726ec8c8188015e38161c9f8cc7c813feb3319414510fbf7b4e595fa5b408e"
+    }
+  },
+  "unchanged": [
+    "all input columns",
+    "all data split bytes",
+    "search seeds",
+    "120/900-second scientific track budgets",
+    "solver parameters",
+    "positive-input sampling",
+    "six-variable pretrained weights",
+    "validation-only model selection",
+    "held-out evaluation"
+  ]
+}

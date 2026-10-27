@@ -1,0 +1,97 @@
+{
+  "schema_version": "full-fair-comparison-b7",
+  "scheduler_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+  "pool_output": "${B7_ROOT}/pools",
+  "bundles": "${RUNTIME_BUNDLES}",
+  "supervisor_bundles": "${B7_ROOT}/runtime-bundles",
+  "archive": "${CORPUS_ROOT}",
+  "requests": "${B7_ROOT}/requests.jsonl",
+  "comparison_requests_sha256": "094891ac33f2824a67bd757ee338dff95caa1aa2c68e4ef3a796e6e0f36c4591",
+  "comparison_index_sha256": "a99c151133b1ad1cd2ca50ffffe0523712bff4a0945018b746e87479806a11d5",
+  "supervisor_python": "${SUPERVISOR_PYTHON}",
+  "minimum_available_memory_gib": 64,
+  "physical_cores_only": true,
+  "workers_per_node": 128,
+  "starts_per_second": 8,
+  "resume_stale_locks": false,
+  "resource_epoch": "carbon-128-physical-single-thread-common-compute-v2",
+  "finalize_comparison": true,
+  "comparison_report_root": "${B7_ROOT}/final-audit",
+  "expected_fit_count": 221400,
+  "expected_ode_count": 37800,
+  "formal_claim": false,
+  "campaigns": [
+    {
+      "method": "pysr",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "env_1_pysr",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    },
+    {
+      "method": "operon",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "parallel_operon",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    },
+    {
+      "method": "dsr",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "parallel_dsr",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    },
+    {
+      "method": "ai_feynman_2",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "parallel_ai_feynman",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    },
+    {
+      "method": "gplearn",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "parallel_gplearn",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    },
+    {
+      "method": "tf4sr",
+      "kind": "comparison_fit",
+      "node": "carbon",
+      "code": "${FROZEN_CODE}",
+      "adapter_commit": "e8e0536aa4db2c6b4610622875821a8a9630a861",
+      "environment": "parallel_tf4sr",
+      "manifest": "${B7_ROOT}/fits-index.json",
+      "output": "${B7_ROOT}/results"
+    }
+  ],
+  "slurm_submission": {
+    "node": "carbon",
+    "cpus_per_task": 128,
+    "threads_per_core": 1,
+    "hint": "nomultithread",
+    "time": "UNLIMITED",
+    "mem": 0,
+    "requeue": false
+  },
+  "child_policy": "Only frozen scientific search wall budgets120/900s per scalar target; no evaluation, memory, startup or scoring cap.",
+  "previous_results_reused": false,
+  "mysr_execution_included": false
+}

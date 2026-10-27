@@ -1,0 +1,62 @@
+{
+  "operon.environment.yml": {
+    "original_sha256": "dd34448bbfde81c620329c30fa28aefd26d030b81ad69d2baf5b5ae1eda3e1d3",
+    "portable_sha256": "0fb301cb76b2b32040262447f12e446d8ac9f000cdd7ed084a020bf72bb66ed9",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "operon.conda-linux-64.txt": {
+    "original_sha256": "82420c80bf5fbe4c21b49a18a407652fd64d6094fa8467ec61fb8695fd012948",
+    "portable_sha256": "82420c80bf5fbe4c21b49a18a407652fd64d6094fa8467ec61fb8695fd012948",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "pysr.conda-linux-64.txt": {
+    "original_sha256": "4b17d5aa70480221572545bad67f2738b15ba2012db8c3b669bfa6d9b1009b1a",
+    "portable_sha256": "4b17d5aa70480221572545bad67f2738b15ba2012db8c3b669bfa6d9b1009b1a",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "gplearn.conda-linux-64.txt": {
+    "original_sha256": "82420c80bf5fbe4c21b49a18a407652fd64d6094fa8467ec61fb8695fd012948",
+    "portable_sha256": "82420c80bf5fbe4c21b49a18a407652fd64d6094fa8467ec61fb8695fd012948",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "dsr.environment.yml": {
+    "original_sha256": "e9b05d147d02c2a68a780c761112e4b4a83d58de2152a8f082ab8efefbeb10d6",
+    "portable_sha256": "d6eaa6ada8f742fd49aa988af2d929154dd6e349982b3c171290adeb111f72c3",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "ai_feynman_2.conda-linux-64.txt": {
+    "original_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "portable_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "dsr.conda-linux-64.txt": {
+    "original_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "portable_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "ai_feynman_2.environment.yml": {
+    "original_sha256": "27fa905c4ebbff3368b0092e41f081c9de57f416af3c23e26a86086080eed101",
+    "portable_sha256": "89c7dd62a2481c7cceef194ed20442f302e89ec554c243c7dbc417bfc1b00cdd",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "tf4sr.environment.yml": {
+    "original_sha256": "546cb25c7980d51f32df3ca03ee4f10bcd3c494ed4831c021ff64e5a2ec02232",
+    "portable_sha256": "62045415ecc26055846d451250c2b867edaca2ec780a553d5626882fb6f8c3be",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "pysr.environment.yml": {
+    "original_sha256": "fc6ff919650e793cc10d6348653f33a96dae303b9fb9a9d805fdace1eb74ff6b",
+    "portable_sha256": "1275eee64960f3733d5fd2144761f7c2781d96aea1ebc4856d4cb1d1406caf7b",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "tf4sr.conda-linux-64.txt": {
+    "original_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "portable_sha256": "f5d0aed489d5dde9ad175087e5e80d1a0749935cdc2f486023d6124412263db8",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  },
+  "gplearn.environment.yml": {
+    "original_sha256": "2f5eb8b0f2d47bbd888ea06de94ed761c0813464e6687edf0a6bdfe80dc5d7c0",
+    "portable_sha256": "68889326ff38f1e069c10e62f0528f8d6b645c4da8769b8268e61708b2478e21",
+    "only_prefix_or_runtime_environment_paths_removed": true
+  }
+}

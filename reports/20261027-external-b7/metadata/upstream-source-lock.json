@@ -1,0 +1,44 @@
+[
+  {
+    "name": "pysr",
+    "commit": "e5b5454a4f31f6902af52dff7a4c23c961d6dbf2",
+    "repository": "https://github.com/MilesCranmer/PySR",
+    "permalink": "https://github.com/MilesCranmer/PySR/tree/e5b5454a4f31f6902af52dff7a4c23c961d6dbf2"
+  },
+  {
+    "name": "operon",
+    "commit": "9cb691aa39cc277d5d5fc923961fc59b44df1acb",
+    "repository": "https://github.com/heal-research/operon",
+    "permalink": "https://github.com/heal-research/operon/tree/9cb691aa39cc277d5d5fc923961fc59b44df1acb"
+  },
+  {
+    "name": "dsr-pytorch",
+    "commit": "85f88faf3ff95636f0011764b30e13f7bb82b54c",
+    "repository": "https://github.com/dso-org/deep-symbolic-optimization-pytorch",
+    "permalink": "https://github.com/dso-org/deep-symbolic-optimization-pytorch/tree/85f88faf3ff95636f0011764b30e13f7bb82b54c"
+  },
+  {
+    "name": "dsr-original",
+    "commit": "8348d5b08d1eef6170fdbfd222a492ded990ea12",
+    "repository": "https://github.com/dso-org/deep-symbolic-optimization",
+    "permalink": "https://github.com/dso-org/deep-symbolic-optimization/tree/8348d5b08d1eef6170fdbfd222a492ded990ea12"
+  },
+  {
+    "name": "ai-feynman",
+    "commit": "a05bc4a5be23d6eb3e1d0b2f7eb1ab5b78a920ad",
+    "repository": "https://github.com/SJ001/AI-Feynman",
+    "permalink": "https://github.com/SJ001/AI-Feynman/tree/a05bc4a5be23d6eb3e1d0b2f7eb1ab5b78a920ad"
+  },
+  {
+    "name": "gplearn",
+    "commit": "0390aea8639ce5f6c0b388400e07b58c05acad6a",
+    "repository": "https://github.com/trevorstephens/gplearn",
+    "permalink": "https://github.com/trevorstephens/gplearn/tree/0390aea8639ce5f6c0b388400e07b58c05acad6a"
+  },
+  {
+    "name": "tf4sr",
+    "commit": "2cd6748ba3a848b09ac2d06a78045dac32e7b083",
+    "repository": "https://github.com/omron-sinicx/transformer4sr",
+    "permalink": "https://github.com/omron-sinicx/transformer4sr/tree/2cd6748ba3a848b09ac2d06a78045dac32e7b083"
+  }
+]

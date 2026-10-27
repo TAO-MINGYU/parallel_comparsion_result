@@ -1,0 +1,92 @@
+{
+  "native_records": 221400,
+  "statuses": {
+    "search_timeout": 139028,
+    "success": 57776,
+    "invalid_output": 3616,
+    "not_applicable": 20980
+  },
+  "usable_predictions": 194980,
+  "missing_results": 0,
+  "issue_count": 0,
+  "issues": [],
+  "method_counts": {
+    "pysr": {
+      "records": 36900,
+      "applicable": 36900,
+      "usable": 36494,
+      "nrmse_le_1e-06": 5377,
+      "nrmse_le_0.0001": 6065,
+      "nrmse_le_0.01": 9585,
+      "nrmse_le_0.1": 21169,
+      "nrmse_le_1": 30868,
+      "nrmse_le_10": 35793
+    },
+    "operon": {
+      "records": 36900,
+      "applicable": 36900,
+      "usable": 36685,
+      "nrmse_le_1e-06": 5565,
+      "nrmse_le_0.0001": 6469,
+      "nrmse_le_0.01": 10300,
+      "nrmse_le_0.1": 21456,
+      "nrmse_le_1": 30785,
+      "nrmse_le_10": 35535
+    },
+    "dsr": {
+      "records": 36900,
+      "applicable": 36900,
+      "usable": 35820,
+      "nrmse_le_1e-06": 2951,
+      "nrmse_le_0.0001": 3318,
+      "nrmse_le_0.01": 5738,
+      "nrmse_le_0.1": 12167,
+      "nrmse_le_1": 27622,
+      "nrmse_le_10": 34517
+    },
+    "ai_feynman_2": {
+      "records": 36900,
+      "applicable": 35940,
+      "usable": 35483,
+      "nrmse_le_1e-06": 3057,
+      "nrmse_le_0.0001": 3369,
+      "nrmse_le_0.01": 5137,
+      "nrmse_le_0.1": 9243,
+      "nrmse_le_1": 18802,
+      "nrmse_le_10": 34781
+    },
+    "gplearn": {
+      "records": 36900,
+      "applicable": 36900,
+      "usable": 36860,
+      "nrmse_le_1e-06": 2036,
+      "nrmse_le_0.0001": 2268,
+      "nrmse_le_0.01": 3171,
+      "nrmse_le_0.1": 6688,
+      "nrmse_le_1": 23673,
+      "nrmse_le_10": 36120
+    },
+    "tf4sr": {
+      "records": 36900,
+      "applicable": 16880,
+      "usable": 13638,
+      "nrmse_le_1e-06": 1532,
+      "nrmse_le_0.0001": 1780,
+      "nrmse_le_0.01": 2002,
+      "nrmse_le_0.1": 2352,
+      "nrmse_le_1": 6374,
+      "nrmse_le_10": 12054
+    }
+  },
+  "resource_epochs": {
+    "carbon-128-physical-single-thread-common-compute-v2": 205582,
+    "carbon-374-logical-smt-single-thread-continuation-20261026": 15818
+  },
+  "ode_aggregates": 37800,
+  "complete_ode_aggregates": 37800,
+  "external_audit_passed": true,
+  "formal_comparison_ready": false,
+  "mysr_results_present": false,
+  "scope": "Deterministic multi-writer continuation of B7, preserved negative outcomes; SMT resource amendment must be matched by MySR.",
+  "request_sha256": "094891ac33f2824a67bd757ee338dff95caa1aa2c68e4ef3a796e6e0f36c4591"
+}

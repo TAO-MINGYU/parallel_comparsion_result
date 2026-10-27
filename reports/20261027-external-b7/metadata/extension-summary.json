@@ -1,0 +1,13 @@
+{
+  "applicability_amendment": "native-scope-extension-20261027-v1",
+  "formal_comparison_ready": false,
+  "issue_count": 0,
+  "issues": [],
+  "records": 12100,
+  "statuses": {
+    "invalid_output": 4116,
+    "search_timeout": 960,
+    "success": 7024
+  },
+  "usable": 7898
+}

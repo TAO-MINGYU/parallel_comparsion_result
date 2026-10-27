@@ -1,0 +1,12 @@
+{
+  "original_not_applicable": 20980,
+  "reasons": {
+    "ai_feynman_scope_only": 960,
+    "fewer_than_50_positive_nonzero_rows": 6160,
+    "more_than_six_inputs": 2720,
+    "tf4sr_scope_only": 11140
+  },
+  "scheduled": 12100,
+  "training_files_examined": 1001,
+  "unsupported": 8880
+}
