@@ -1,0 +1,5 @@
+# csv.DictWriter exports CRLF; preserve the exact verified scientific tables.
+reports/20261027-external-b7/tables/*.csv whitespace=cr-at-eol
+
+# Matplotlib owns SVG layout whitespace; retain byte-identical vector output.
+reports/20261027-external-b7/figures/*.svg -whitespace
