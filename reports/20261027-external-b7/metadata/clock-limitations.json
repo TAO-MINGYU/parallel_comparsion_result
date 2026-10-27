@@ -1,0 +1,21 @@
+{
+  "scientific_search_budget_unit": "wall_seconds_per_scalar_target",
+  "imports_and_synthetic_warmup_separate": true,
+  "final_export_and_held_out_scoring_separate": true,
+  "in_loop_synchronous_checkpoint_cost_in_search_clock": true,
+  "minimum_native_checkpoint_interval_seconds": {
+    "gplearn": 10,
+    "dsr": 10,
+    "operon": 10
+  },
+  "checkpoint_cost_measured_separately": false,
+  "checkpoint_cost_subtracted_from_budget": false,
+  "equal_algorithm_only_compute_claim_supported": false,
+  "source_references": [
+    "reproduction/frozen_benchmark/benchmark_mysr/external/checkpoints.py:NativeCheckpoint.write",
+    "reproduction/frozen_benchmark/benchmark_mysr/external/checkpoints.py:OperonCheckpoint.write",
+    "reproduction/frozen_benchmark/benchmark_mysr/external/solvers.py:fit",
+    "reproduction/frozen_benchmark/benchmark_mysr/external/runner.py:run"
+  ],
+  "interpretation": "Fixed implemented-system recipes under the recorded supervised wall budgets, native grammars, numerical precision and storage instrumentation; not fully tuned algorithm-only capability ceilings."
+}

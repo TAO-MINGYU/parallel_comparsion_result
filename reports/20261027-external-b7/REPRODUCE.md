@@ -177,6 +177,13 @@ counts on different machines. Reproduction means the same documented inputs,
 settings, resource condition and outcome accounting; bit-identical discovered
 expressions or elapsed times are not guaranteed by a matching seed alone.
 
+The frozen adapter's synchronous checkpoint collection/serialization/storage
+inside the search loop also consumes supervised search time. The gplearn, DSR
+and Operon checkpoint writers use a minimum10-second interval; this does not
+make their storage cost identical. That overhead was not measured separately
+or subtracted from the budget. Final post-search export/scoring is a different
+stage. Do not infer equal algorithm-only compute from equal nominal wall budgets.
+
 ## 6. Prepare future MySR comparisons
 
 `tables/mysr-run-template.jsonl.gz` contains unexecuted MySR request templates.
